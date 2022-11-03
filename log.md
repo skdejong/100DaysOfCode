@@ -305,6 +305,9 @@ This week we are learning about testing and modern software engineering practice
 ## Day 36: 3 November 2022
 
 **Today's Progress**:
-- Forked the #100daysofcode template and added all my notes from Notion, Tweets, and posts on LinkedIn from my first 35 days of the challenge into this 100 Days of Code log. 
+- Forked the #100daysofcode template and added all my notes from Notion, Tweets, and posts on LinkedIn from my first 35 days of the challenge into this 100 Days of Code log. It's a clear sign of how far I have come in a such a short time since when I started the 100 Days of Code challenge I didn't know how to use Github or VSCode and definitely didn't know how to fork a repo!
 - Learned about NoSQL from guest speakers from Couchbase
-- With my pair programming partner this week we created our own Kata on CodeWars and the tests required to check our CodeWarrior's solutions. We started with some simple ones which worked find. Then we started creating a more complicated one but didn't finish before the end of the day. 
+- With my pair programming partner this week we created our own Kata on CodeWars and the tests required to check our CodeWarrior's solutions. We started with some simple ones which worked find. Then we started creating a more complicated one but didn't finish before the end of the day.
+- Completed 7 more lessons of the "JavaScript Algorithms and Data Structures" certification on freeCodeCamp 
+
+**Link(s) to work**: [Free Code Camp](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5) 
