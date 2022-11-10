@@ -1,24 +1,5 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
 ### Day 1: 26 September 2022
 
 **Today's Progress**: Learned new CSS selectors and practiced them while pair programming with CSS Diner
@@ -311,3 +292,38 @@ This week we are learning about testing and modern software engineering practice
 - We also learned about NoSQL from Couchbase at School of Code today. It was interesting to learn more about it.
 
 **Link(s) to work**: [Free Code Camp](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5) 
+
+## Day 37: 4 November 2022
+
+**Today's Progress**:
+- It was Hackathon Friday at School of Code. Our goal was to create testable code for end-to-end testing and API integration testing. We did our End-to-End testing using cypress.io. This included creating a SQL database in ElephantSQL. We did our API testing using jest and supertest. As part of that we wrote the code to test GET and POST. 
+
+## Day 38: 6 November 2022
+
+**Today's Progress**:
+- Worked on the week 6 recap homework which was to test a full stack app. 
+
+# Day 39: 7 November 2022
+
+**Today's Progress**:
+- This week at School of Code we are covering component-based thinking and frameworks. We are specifically focused on learning how to use React, a JavaScript library used for building advanced user interfaces with a component-based architecture approach. 
+- Today we learned about how to create single-page React applications using Create React App. 
+
+# Day 40: 8 November 2022
+
+**Today's Progress**:
+-  Solved a kata with my pairing partner this week by using JavaScript String split() and the Spread (...) operator. I worked on this particular kata with two different fellow programmers so it felt wonderful to finally solve it! 
+-  At School of Code today we also learned and practiced coding using:
+    - JavaScript array methods such as map(), filter(), some(), every(), and sort().  
+    - React components: creating, building and nesting components.
+
+# Day 41: 9 November 2022
+
+**Today's Progress**:
+-  Learned about React useState hooks: const [state, setState] = useState(initialState)
+
+# Day 42: 10 November 2022
+
+**Today's Progress**:
+- Learned about React lists and keys
+- Immutable updates to objects and arrays
