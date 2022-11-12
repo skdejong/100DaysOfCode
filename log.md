@@ -52,7 +52,7 @@ Welcome to my #100 Days of Code Log as I take on the challenge to code at least 
 Spent the whole day programming in #javascript and #problemsolving with my teammate in our first 
 the School Of Code. We built a Rock, Paper, Scissors game from scratch.
 
-**Thoughts:** This School of Code  hackathon tune gets us all fired up to take on the day - [Hackathon Fridays.](https://open.spotify.com/track/4oHKTtoYPBhfZBiTtO4OIP?si=s_USUc5gQByXnMzciOlWWQ&utm_source=copy-link&nd=1)
+**Thoughts:** I enjoy this catchy School of Code hackathon tune that gets us all fired up to take on the day - [Hackathon Fridays.](https://open.spotify.com/track/4oHKTtoYPBhfZBiTtO4OIP?si=s_USUc5gQByXnMzciOlWWQ&utm_source=copy-link&nd=1)
 
 ### Day 6: 1 October 2022
 
@@ -105,7 +105,7 @@ Studied and completed exercises on www.w3schools.com on the following topics in 
 
 **Link(s) to work**: [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
 
-<img src="https://www.w3schools.com/" alt="">
+<img src="https://www.w3schools.com/images/w3schools_logo_436_2.png" alt="">
 
 ### Day 14: 9 October 2022
 
