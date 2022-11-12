@@ -120,6 +120,10 @@ Started working on Recap Week 2 workshop from School of Code which covers functi
 - Started a newbie challenge on Front End Mentor with my new programming pair partner for this week (https://lnkd.in/eBKh6P4e)
 #javascript #programming #agile #uiux
 
+**Thoughts:** My inspirational quote for today. Saw this and it's perfect for me as I start week 3 of coding bootcamp. What new thing will you be brave enough to suck at?
+
+![Image](./Images/BeBraveEnough.jpg)
+
 ### Day 16: 11 October 2022
 
 **Today's Progress**:
@@ -143,6 +147,8 @@ CSS:
 · Also learned how to name CSS classes to make them more specific
 #css #ui
 
+![Image](./Images/Figma_whereTeamsDesignBetterProductsTogether.jpg)
+
 ### Day 18: 13 October 2022
 
 **Today's Progress**:
@@ -165,7 +171,7 @@ Yesterday was Hackathon Friday at School Of Code. We used our newly developed UI
 - Continued coding functions, loops, and arrays for the JavaScript Recap workshop with School Of Code.
 - One of the many things I love about School of Code is they connect each of us with a mentor who works in the tech industry already and is willing to meet with us 1:1 each week. Arthur is my mentor and he has encouraged me so much already with his tips, advice, and support. He sent me an inspiring quote this morning when I was feeling discouraged and I've been repeating it to myself all day. Thank you, Arthur! 
 
-The quote is from Michael b Jordan: "I don't care who is doing better than me. I am doing better than I was last year. Its me vs me."
+    ![Image](./Images/CompetitionMeVsMe.jpg)
 
 #javascript #mentoring
 
@@ -191,7 +197,10 @@ This week we are learning about backend development. We are using Nodejs (an ope
 - Used uuid (a third party package) to generate unique ids.
 - Serialized and deserialized data using the JSON.parse and JSON.stringify methods.
 - Started learning how to build a web server using expressjs.com.
+
 #nodejs #backenddevelopment #json #expressjs
+
+![Image](/Images/FrontendDev.Json.BackendDev_FullstackDeveloper.jpg)
 
 ### Day 23: 19 October 2022
 
@@ -222,6 +231,8 @@ Forked the repo from the workshop that I did with my programming pair partner la
 - Created API endpoints allowing the user to create, read, update and delete a resource (Set up CRUD routes in my router so that my server is listening for requests and serves test responses).
 - Used Postman to make HTTP requests to test API endpoints.
 #middleware #restapi #nodejs #postmanapi #apitesting
+
+![Image](./Images/Full%20Stack%20Developer%20Duck.jpg)
 
 ### Day 27: 24 October 2022
 
@@ -326,6 +337,8 @@ This week we are learning about testing and modern software engineering practice
 - This week at School of Code we are covering component-based thinking and frameworks. We are specifically focused on learning how to use React, a JavaScript library used for building advanced user interfaces with a component-based architecture approach. 
 - Today we learned about how to create single-page React applications using Create React App. 
 
+![Image](./Images/React%20JS.png)
+
 ### Day 40: 8 November 2022
 
 **Today's Progress**:
@@ -345,4 +358,53 @@ This week we are learning about testing and modern software engineering practice
 - Learned about React lists and keys
 - Immutable updates to objects and arrays
 
-![Image](https://techblog.sdstudio.top/wp-content/uploads/2021/09/ba11d056cec27254d89b310745e4071b-1.png)
+**Thoughts:** Every day on my lunch break I try to walk outside. It's great for my health and also [scientifically proven](https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/) to boost creative thinking by an average of 60 percent! A perfect aid for effective problem solving. 
+
+![Image](./Images/walk_woods.jpg)
+
+### Day 43: 11 November 2022
+
+**Today's Progress**: The goal of the Hackathon today was to use the skills in ReactJS that we've been learning all week to create a to do list app. My pairing partner and I decided that we needed to go back to understanding some of the basics of React such as State and Props. As a result, we spent a fair amount of time going through The Net Ninja's YouTube playlist, [Full React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) and discussing it to make sure we understood it.  
+
+### Day 44: 12 November 2022
+
+**Today's Progress**: 
+- Today I learned how to to [How to Transform Your #100DaysOfCode Log Into a Visual Experience](https://www.freecodecamp.org/news/how-to-transform-your-100daysofcode-log-into-a-visual-experience-d048334af8d9/) thanks to this Free Code Camp article. 
+- I have subsequently updated this log with images, links, and formatting changes with the help of Markdown code such as:
+
+    *Italic*
+    **Bold**
+    # Heading 1
+    ## Heading 2
+    [Link](http://a.com)
+    ![Image](http://url/a.png)
+    > Blockquote
+    
+     * List
+     * List
+     * List
+    
+     1. One
+     2. Two
+     3. Three
+
+    Horizontal rule:
+    ---
+    
+    `Inline code` with backticks	
+
+    ```
+    # code block
+    print '3 backticks or'
+    print 'indent 4 spaces'
+    ```
+
+**Link(s) to resources**: 
+
+[Markdown Tutorial](https://commonmark.org/help/)
+
+[Markdown Tutorial and  Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) 
+
+**Thoughts:** After an intense week with being sick with the flu and trying to learn how to code using React JS, I needed a mental break. I found it encouraging and motivating learning how to improve this log to make it more interesting to read by including an introduction, adding images, and reformatting it. One of these days I'll hopefully be posting some actual projects, but for now this is a good first step. I needed this quote today:
+
+ ![Image](./Images/ResultsHappenOverTime.jpg)
