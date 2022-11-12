@@ -4,7 +4,8 @@
 
 ![Image](./Images/super_64.png) 
 
-Welcome to my #100 Days of Code Log as I take on the challenge to code at least an hour a day for the next 100 days! I am joining the brave new world of learning how to code starting with my first day at the School of Code Bootcamp. 
+Welcome to my #100 Days of Code Log as I take on the challenge to code at least an hour a day for the next 100 days! I am joining the brave new world of learning how to code by starting the School of Code's full stack web development bootcamp. It's full time for the next four months but it's also free. The application process was lengthy but they only accepted 130 people out of nearly 3000 applicants. How could I turn down the opportunity?
+#careerchange #womenintech
 
 ![Image](./Images/SchoolOfCode.AccurateName_WebSmallSize.jpg)
 
@@ -35,7 +36,7 @@ Welcome to my #100 Days of Code Log as I take on the challenge to code at least 
 ### Day 3: 28 September 2022
 
 **Today's Progress**: 
-- Started learning JavaScript with @theSchoolofCode
+- Started learning JavaScript with The School of Code
 - Practiced pair programming in JavaScript using Visual Studio Code, Git, and GitHub
 
 ### Day 4: 29 September 2022
@@ -49,7 +50,9 @@ Welcome to my #100 Days of Code Log as I take on the challenge to code at least 
 
 **Today's Progress**: 
 Spent the whole day programming in #javascript and #problemsolving with my teammate in our first 
-@theSchoolOfCode. We built a Rock, Paper, Scissors game from scratch.
+the School Of Code. We built a Rock, Paper, Scissors game from scratch.
+
+**Thoughts:** This School of Code  hackathon tune gets us all fired up to take on the day - [Hackathon Fridays.](https://open.spotify.com/track/4oHKTtoYPBhfZBiTtO4OIP?si=s_USUc5gQByXnMzciOlWWQ&utm_source=copy-link&nd=1)
 
 ### Day 6: 1 October 2022
 
@@ -102,7 +105,9 @@ Studied and completed exercises on www.w3schools.com on the following topics in 
 
 **Link(s) to work**: [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
 
-## Day 14: 9 October 2022
+<img src="https://www.w3schools.com/" alt="">
+
+### Day 14: 9 October 2022
 
 **Today's Progress**:
 Started working on Recap Week 2 workshop from School of Code which covers functions, strings, for loops, arrays, setInterval, clearInterval, and fetch. 
