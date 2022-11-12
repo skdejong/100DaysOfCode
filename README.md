@@ -1,6 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
-See the log.md file for my log.
+![Image](./Images/super_64.png) 
+# ***See the log.md file for my log.***
 
 ## Contents
 
