@@ -105,7 +105,7 @@ Studied and completed exercises on www.w3schools.com on the following topics in 
 
 **Link(s) to work**: [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
 
-<img src="https://www.w3schools.com/images/w3schools_logo_436_2.png" alt="">
+![Image](./Images/w3schools%20logo.jpg)
 
 ### Day 14: 9 October 2022
 
@@ -364,7 +364,8 @@ This week we are learning about testing and modern software engineering practice
 
 ### Day 43: 11 November 2022
 
-**Today's Progress**: The goal of the Hackathon today was to use the skills in ReactJS that we've been learning all week to create a to do list app. My pairing partner and I decided that we needed to go back to understanding some of the basics of React such as State and Props. As a result, we spent a fair amount of time going through The Net Ninja's YouTube playlist, [Full React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) and discussing it to make sure we understood it.  
+**Today's Progress**: 
+Hackathon Friday at School Of Code. We attempted to use the skills in Reactjs that we've been learning all week to create a "To do list" app. My pairing partner and I decided that we needed to go back to understanding some of the basics of React such as State and Props. As a result, we spent some time going through The Net Ninja's YouTube playlist, [Full React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) and discussing it to make sure we understood it.  
 
 ### Day 44: 12 November 2022
 
@@ -405,6 +406,6 @@ This week we are learning about testing and modern software engineering practice
 
 [Markdown Tutorial and  Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) 
 
-**Thoughts:** After an intense week with being sick with the flu and trying to learn how to code using React JS, I needed a mental break. I found it encouraging and motivating learning how to improve this log to make it more interesting to read by including an introduction, adding images, and reformatting it. One of these days I'll hopefully be posting some actual projects, but for now this is a good first step. I needed this quote today:
+**Thoughts:** After an intense week, when I was sick with the flu and trying to learn how to code using React JS, I needed a mental break. I found it encouraging and motivating learning how to improve my #100daysofcode log on #github to make it more interesting to read. One of these days I'll hopefully be posting some actual projects, but for now this is a good first step. This quote from Code First Girls was just what I needed to read today:
 
  ![Image](./Images/ResultsHappenOverTime.jpg)
