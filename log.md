@@ -370,10 +370,11 @@ Hackathon Friday at School Of Code. We attempted to use the skills in Reactjs th
 ### Day 44: 12 November 2022
 
 **Today's Progress**: 
-- Today I learned how to to [How to Transform Your #100DaysOfCode Log Into a Visual Experience](https://www.freecodecamp.org/news/how-to-transform-your-100daysofcode-log-into-a-visual-experience-d048334af8d9/) thanks to this Free Code Camp article. 
+- Today I learned [How to Transform Your #100DaysOfCode Log Into a Visual Experience](https://www.freecodecamp.org/news/how-to-transform-your-100daysofcode-log-into-a-visual-experience-d048334af8d9/) thanks to this Free Code Camp article. 
 - I have subsequently updated this log with images, links, and formatting changes with the help of Markdown code such as:
 
     *Italic*
+    
     **Bold**
     # Heading 1
     ## Heading 2
