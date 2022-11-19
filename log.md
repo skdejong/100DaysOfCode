@@ -410,3 +410,59 @@ Hackathon Friday at School Of Code. We attempted to use the skills in Reactjs th
 **Thoughts:** After an intense week, when I was sick with the flu and trying to learn how to code using React JS, I needed a mental break. I found it encouraging and motivating learning how to improve my #100daysofcode log on #github to make it more interesting to read. One of these days I'll hopefully be posting some actual projects, but for now this is a good first step. This quote from Code First Girls was just what I needed to read today:
 
  ![Image](./Images/ResultsHappenOverTime.jpg)
+
+ ### Day 45: 14 November 2022
+
+**Today's Progress**: 
+Learned about pure functions in Reactjs such as useEffect hook. Using useEffect with fetch. 
+
+ ### Day 46: 15 November 2022
+
+**Today's Progress**:
+
+Learned how to Git branch and git commands such as:
+* git checkout –b adding-to-remote. This creates a new branch called “adding-to-remote” and switches to it at the same time.
+
+* git checkout main. 
+
+* git push --set-upstream origin newBranchName
+
+We also learned about useReducer which is a hook that allows you to manage your state in React when you want to keep everything under control.
+
+ ### Day 47: 16 November 2022
+
+**Today's Progress**:
+
+Refactored a list with useReducer from useReducer Workshop 
+
+Worked on 6kyu kata in Code Wars with my pairing partner. 
+
+Had a refresh on writing test code in preparation for our group project next week. Then worked on a React Component Testing workshop.
+
+Learned about Create React App. React Testing Library. 
+ 
+
+ ### Day 48: 17 November 2022
+
+**Today's Progress**:
+
+Learned more about Agile working, Kanban board, Agile Sprint Iterations, MSCW (Must have, should have, could have, won’t have). etc. 
+
+More review on Testing React Components.
+
+WE also conducted Group Research projects and presentations on: 
+* Breaking down a project
+* Standups and retrospectives
+* Estimation, story points, and story point poker
+* Sprint planning
+* Scrum
+* Kanban
+* Minimum Viable Product (MVP) and Minimum Loveable Product (MLP)
+* Minimum Viable Product and Minimum Loveable Product
+
+ ### Day 49: 19 November 2022
+
+**Today's Progress**:
+Continued completing lessons in the JavaScript course on FreeCodeCamp
+
+**Link(s) to work**: [JavaScript Algorithm and Data Structures Certification Course](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5) 
