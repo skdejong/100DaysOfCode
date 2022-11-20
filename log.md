@@ -76,8 +76,11 @@ the School Of Code. We built a Rock, Paper, Scissors game from scratch.
 
 **Today's Progress**: 
 - Learned about and practiced JavaScript Events in the Document Object Model (DOM).
-- Completed another kata in #codewars with my pairing partner.
-#javascript
+- Completed another JavaScript kata in Code Wars with my pairing partner.
+
+**Thoughts:** I'm starting to understand what a programmer does other than "works with computers." 😂
+
+![Image](./Images/A%20programmer%20-%20What%20people%20think%20I%20do.jpg)
 
 ### Day 10: 5 October 2022
 
@@ -414,13 +417,13 @@ Hackathon Friday at School Of Code. We attempted to use the skills in Reactjs th
  ### Day 45: 14 November 2022
 
 **Today's Progress**: 
-Learned about pure functions in Reactjs such as useEffect hook. Using useEffect with fetch. 
+Learned about pure functions in Reactjs such as useEffect hook. How to fetch data from an API using fetch, useEffect and useState. 
 
  ### Day 46: 15 November 2022
 
 **Today's Progress**:
 
-Learned how to Git branch and git commands such as:
+Learned about branch management in Git. This included learning some new git commands such as:
 * git checkout –b adding-to-remote. This creates a new branch called “adding-to-remote” and switches to it at the same time.
 
 * git checkout main. 
@@ -433,11 +436,13 @@ We also learned about useReducer which is a hook that allows you to manage your 
 
 **Today's Progress**:
 
-Refactored a list with useReducer from useReducer Workshop 
+Refactored a list with useReducer from The School of Code useReducer Workshop 
 
-Worked on 6kyu kata in Code Wars with my pairing partner. 
+Worked on solving a 6kyu kata in Code Wars with my pairing partner. 
 
-Had a refresh on writing test code in preparation for our group project next week. Then worked on a React Component Testing workshop.
+Had a refresh on writing test code in preparation for our group project next week. 
+
+Then worked on a React Component Testing workshop.
 
 Learned about Create React App. React Testing Library. 
  
@@ -450,7 +455,7 @@ Learned more about Agile working, Kanban board, Agile Sprint Iterations, MSCW (M
 
 More review on Testing React Components.
 
-WE also conducted Group Research projects and presentations on: 
+We also conducted Group Research projects and presentations on: 
 * Breaking down a project
 * Standups and retrospectives
 * Estimation, story points, and story point poker
@@ -459,6 +464,8 @@ WE also conducted Group Research projects and presentations on:
 * Kanban
 * Minimum Viable Product (MVP) and Minimum Loveable Product (MLP)
 * Minimum Viable Product and Minimum Loveable Product
+
+![Image](./Images/MVP%20and%20MLP.jpg)
 
  ### Day 49: 19 November 2022
 
