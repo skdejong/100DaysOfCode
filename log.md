@@ -466,3 +466,10 @@ WE also conducted Group Research projects and presentations on:
 Continued completing lessons in the JavaScript course on FreeCodeCamp
 
 **Link(s) to work**: [JavaScript Algorithm and Data Structures Certification Course](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5) 
+
+ ### Day 50: 20 November 2022
+
+**Today's Progress**:
+Continued working through lessons in the JavaScript course on FreeCodeCamp
+
+**Link(s) to work**: [JavaScript Algorithm and Data Structures Certification Course](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5) 
