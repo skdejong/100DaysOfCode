@@ -455,7 +455,7 @@ Learned more about Agile working, Kanban board, Agile Sprint Iterations, MSCW (M
 
 More review on Testing React Components.
 
-We also conducted Group Research projects and presentations on: 
+We also conducted and presented Group Research projects on the following topics: 
 * Breaking down a project
 * Standups and retrospectives
 * Estimation, story points, and story point poker
@@ -463,7 +463,6 @@ We also conducted Group Research projects and presentations on:
 * Scrum
 * Kanban
 * Minimum Viable Product (MVP) and Minimum Loveable Product (MLP)
-* Minimum Viable Product and Minimum Loveable Product
 
 ![Image](./Images/MVP%20and%20MLP.jpg)
 
