@@ -479,3 +479,88 @@ Continued completing lessons in the JavaScript course on FreeCodeCamp
 Continued working through lessons in the JavaScript course on FreeCodeCamp
 
 **Link(s) to work**: [JavaScript Algorithm and Data Structures Certification Course](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5) 
+
+ ### Day 5: 21 November 2022
+
+ **Today's Progress**:
+
+ This week at School of Code we have been put into groups of four and asked to design a full stack web application which helps to address challenges that bootcampers face while learning remotely. At the end of the week we’ll present our solution to a panel of judges from the industry
+
+One of our goals this week is to use Agile software development practices as we plan, manage, develop, and present our app. Therefore, as a team we first agreed upon our Team Manifesto core items and recovery strategy. We then used a Jamboard and the Disney Ideation Method to brainstorm ideas and then narrow them down. We also completed our user stories, component tree, and low-fidelity wireframe on Figma. 
+
+Before starting my day with School of Code, I watched YouTube instructional videos by Net Ninja about Node.js and React (Using JSON Server and useEffect Dependencies).
+
+![Image](./Images/Jamboard%20Disney%20Ideation%20Method.jpg)
+![Image](./Images/Draft%20Low%20Fidelity%20Wireframes.jpg)
+![Image](./Images/ComponentTree_DatabasePlanningTable_API.RequestPaths.jpg)
+
+ ### Day 52: 22 November 2022
+
+ **Today's Progress**:
+
+ Today we created a Kanban board on Trello for project management purposes. We then spilt into programming pairs with one pair starting to build the front-end and the other working on the back-end. 
+
+For the back-end, we drew a diagram showing what tables our database would contain and how they join. We also wrote an API planning table for the requests that our back-end would handle. Then we created a PostgreSQL database in railway.app
+
+**Thoughts:** 
+
+This was a very stressful day. Friction that we had in the team yesterday became worse today. One of our colleagues wasn’t in tune with the rest of the team and we found ourselves spending too much energy articulating why we were doing what we agreed upon previously, trying to push forward against a force pushing back. Halfway through the afternoon, it became unbearable and our team reached a breaking point. 
+
+![Image](./Images/Kanban%20Planning%20Board.jpg)
+
+ ### Day 53: 23 November 2022
+
+ **Today's Progress**:
+
+One of the challenges today was connecting the front and back ends that we had developed. We ended up downloading a node.js package called CORS which provides Express middleware and tweaking our React components to respond appropriately. 
+
+We also had a console.log inside an async function which threw us off for a while until we noticed that we needed to move it out. 
+
+We did manage to get two components to work correctly. 
+
+ **Thoughts:** 
+
+ We started today with uncertainty about what was going to happen to our team. We carried on working as a trio but we were still a bit lost, as it was difficult to proceed while things were actively changing. 
+
+It stayed like that up until the mid-afternoon when we officially received a decision from School of Code that from then onwards we would be a team of three. We were clearly behind, but this confirmation gave us what we needed which was certainty. For the rest of the afternoon, the three of us reassessed our situation, rewrote our Recovery plan, and started reconsidering our Minimum Viable Product (MVP) definition.  
+
+![Image](./Images/Our%20App%20at%20the%20end%20of%20Wed.jpg)
+
+### Day 54: 24 November 2022
+
+**Today's Progress**:
+
+This morning at our daily stand-up we decided that our goal by the end of the day was for our app to have a modularized dashboard with clear sections and to be visually well structured. We had to make a few sacrifices on our original plan to reach our revised MVP by the end of the day, such as:
+* Testing our app
+* Making sure it was accessible and 
+* Officially naming our solution.
+
+We lived out at least two of the core Agile values this week:
+* Responding to change over following a plan and 
+* Working software over comprehensive documents 
+
+After revising our MVP, we came up with a colour scheme, modified our low-fidelity wireframe, and discussed our priorities and responsibilities for tasks using our Kanban board on Trello. 
+
+I learned today how to use CSS in React to style components and enjoyed seeing immediate, visual results from my coding.  
+
+At the end of every day this week we met for a retrospective, using the 4Ls technique, to discuss what we Loved, Loathed, Longed For, and Learned that day.
+
+![Image](./Images/Our%20App%20at%20midday%20on%20Thurs.jpg)
+
+### Day 55: 25 November 2022
+
+**Today's Progress**:
+
+Today our focus was on preparing and presenting our App to a panel of judges from the industry. 
+
+Our solution is a dashboard to help bootcampers decompresses after an intense day of learning. It has activities, organized by category, which help to boost wellbeing. You can add to it each day and view your progress based on your goals. It also has a random joke generator. Finally, there’s a prompt to write down things that you are grateful for with a list reminding you of what you have been thankful for in the past. 
+
+ **Thoughts:** 
+
+We had unavoidable setbacks this week and then we became a team of three when we were already behind. After that, although our team was smaller we worked as a cohesive team, celebrated our victories however small, and our productivity level shot through the roof. 
+
+The big take away for us is how important mindset and a positive attitude is when facing challenges as a team. We had a unique chance to experience the type of obstacles one might face in a real work environment. It was important for us to keep moving forward and to stay agile. This week, we lived out the following values from The Agile Manifesto:
+* Individual and interactions over processes and tools and 
+* Responding to change over following a plan. 
+
+![Image](./Images/Our%20App%20on%20Fri%20morning.jpg)
