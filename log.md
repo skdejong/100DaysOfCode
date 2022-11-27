@@ -563,4 +563,6 @@ The big take away for us is how important mindset and a positive attitude is whe
 * Individual and interactions over processes and tools and 
 * Responding to change over following a plan. 
 
+I am incredibly grateful to my teammates on this project, Gabe and Milly. They were supportive, encouraging, kind, flexible, resilient, and brilliant at coding too! We faced huge challenges but overcame them together, working as a cohesive team with a positive attitude. At the end of the week we presented to the judges a functioning app which was coded almost entirely in a day. What an achievement!
+
 ![Image](./Images/Our%20App%20on%20Fri%20morning.jpg)
