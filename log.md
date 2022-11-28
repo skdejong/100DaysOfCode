@@ -535,10 +535,6 @@ This morning at our daily stand-up we decided that our goal by the end of the da
 * Making sure it was accessible and 
 * Officially naming our solution.
 
-We lived out at least two of the core Agile values this week:
-* Responding to change over following a plan and 
-* Working software over comprehensive documents 
-
 After revising our MVP, we came up with a colour scheme, modified our low-fidelity wireframe, and discussed our priorities and responsibilities for tasks using our Kanban board on Trello. 
 
 I learned today how to use CSS in React to style components and enjoyed seeing immediate, visual results from my coding.  
@@ -559,9 +555,12 @@ Our solution is a dashboard to help bootcampers decompresses after an intense da
 
 We had unavoidable setbacks this week and then we became a team of three when we were already behind. After that, although our team was smaller we worked as a cohesive team, celebrated our victories however small, and our productivity level shot through the roof. 
 
-The big take away for us is how important mindset and a positive attitude is when facing challenges as a team. We had a unique chance to experience the type of obstacles one might face in a real work environment. It was important for us to keep moving forward and to stay agile. This week, we lived out the following values from The Agile Manifesto:
+The big take away for us is how important mindset and a positive attitude is when facing challenges as a team. We had a unique chance to experience the type of obstacles one might face in a real work environment. It was important for us to keep moving forward and to stay agile. 
+
+This week, we lived out the following values from The Agile Manifesto:
+* Responding to change over following a plan
 * Individual and interactions over processes and tools and 
-* Responding to change over following a plan. 
+* Working software over comprehensive documents 
 
 I am incredibly grateful to my teammates on this project, Gabe and Milly. They were supportive, encouraging, kind, flexible, resilient, and brilliant at coding too! We faced huge challenges but overcame them together, working as a cohesive team with a positive attitude. At the end of the week we presented to the judges a functioning app which was coded almost entirely in a day. What an achievement!
 
