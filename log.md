@@ -551,6 +551,10 @@ Today our focus was on preparing and presenting our App to a panel of judges fro
 
 Our solution is a dashboard to help bootcampers decompresses after an intense day of learning. It has activities, organized by category, which help to boost wellbeing. You can add to it each day and view your progress based on your goals. It also has a random joke generator. Finally, there’s a prompt to write down things that you are grateful for with a list reminding you of what you have been thankful for in the past. 
 
+*Tools used:* Jamboard, Figma, Trello, VSCode, Git, GitHub, Zoom, Google docs, and Google Slides
+
+*Tech Stack used:* JavaScript ES6, Node.js, Expres.js, React.js, PostgreSQL (ElephantSQL and Railway.app), HTML, and CSS
+
  **Thoughts:** 
 
 We had unavoidable setbacks this week and then we became a team of three when we were already behind. After that, although our team was smaller we worked as a cohesive team, celebrated our victories however small, and our productivity level shot through the roof. 
