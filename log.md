@@ -580,6 +580,32 @@ At School of Code today, we spent the morning in our project groups from last we
 In the afternoon, we focused on Code Reviews. We read up on code review guidelines and then met with another team from last week to review their code (and vice versa). 
 
 **Links to some resources used**: 
+
 [State: A Component's Memory](https://beta.reactjs.org/learn/state-a-components-memory) 
 
 [Retrospective basics from Atlassian](https://www.atlassian.com/wac/team-playbook/plays/retrospective?)
+
+### Day 57: 29 November 2022
+
+**Today's Progress**:
+Today we started implementing some changes to the code in our project based on the feedback that we received from our peer code review yesterday.
+* We learned how to use the JSDoc Tool for adding documentation comments to our code. 
+* We simplified the code as much as possible. 
+* We learned about the readme.so tool to create documentation for our front and back ends.
+* We practiced reviewing code in a branch before approving it to be merged with the main branch in Github. My teammate, Milly, created tests using Cypress and tested some of the components from our project. She wrote the test in a branch file, so when she went to merge it to our main file, she added Gabe and me as reviewers in GitHub so we could practice how it works. Then we each went through it, making comments, modifying any code, and then merging it. 
+* I also learned about the "git mv" feature to fix a file name on our main branch which kept reverting back to the wrong name. 
+
+ **Thoughts:** 
+I really enjoyed today and feel that I learned a lot. As we were reviewing our code, I tried to explain out loud to my teammates what the code was doing. My teammates were brilliant at explaining anything I didn't understand. They are also helping me to start using the correct syntax. Often I understand and can explain the logic of the code but don't remember the correct technical words to use (such as "rendering a component"). 
+
+**Links to resources**: 
+
+[JSDoc Tool for adding documentation comments](https://jsdoc.app/about-getting-started.html)
+
+[README markdown editor ](https://readme.so/)
+
+Cypress Testing a component of our app:
+![Image](./Images/CypressTestofGratitudeComponent.jpg)
+
+GitHub Network Graph of our commits:
+![Image](./Images/NetworkGraph.jpg)
