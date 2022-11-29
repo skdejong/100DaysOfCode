@@ -604,8 +604,9 @@ I really enjoyed today and feel that I learned a lot. As we were reviewing our c
 
 [README markdown editor ](https://readme.so/)
 
-Cypress Testing a component of our app:
+*Cypress Testing a component of our app:*
 ![Image](./Images/CypressTestofGratitudeComponent.jpg)
 
-GitHub Network Graph of our commits:
+
+*GitHub Network Graph of our commits:*
 ![Image](./Images/NetworkGraph.jpg)
