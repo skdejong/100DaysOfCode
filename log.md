@@ -569,3 +569,17 @@ This week, we lived out the following values from The Agile Manifesto:
 I am incredibly grateful to my teammates on this project, Gabe and Milly. They were supportive, encouraging, kind, flexible, resilient, and brilliant at coding too! We faced huge challenges but overcame them together, working as a cohesive team with a positive attitude. At the end of the week we presented to the judges a functioning app which was coded almost entirely in a day. What an achievement!
 
 ![Image](./Images/Our%20App%20on%20Fri%20morning.jpg)
+
+### Day 56: 28 November 2022
+
+**Today's Progress**:
+Before SoC started this morning, I read in the Reactjs docs about State to reinforce my understanding.
+
+At School of Code today, we spent the morning in our project groups from last week holding our Sprint Retrospective. We created a Trello board to discuss what went well, what needs improvement, and action items for the future. I also learned how to add a voting option for the Trello cards so we could have a team vote on the three ideas we’d like to see at the top of the list. 
+
+In the afternoon, we focused on Code Reviews. We read up on code review guidelines and then met with another team from last week to review their code (and vice versa). 
+
+**Links to some resources used**: 
+[State: A Component's Memory](https://beta.reactjs.org/learn/state-a-components-memory) 
+
+[Retrospective basics from Atlassian](https://www.atlassian.com/wac/team-playbook/plays/retrospective?)
