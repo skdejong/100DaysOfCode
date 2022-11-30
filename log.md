@@ -610,3 +610,8 @@ I really enjoyed today and feel that I learned a lot. As we were reviewing our c
 
 *GitHub Network Graph of our commits:*
 ![Image](./Images/NetworkGraph.jpg)
+
+### Day 58: 30 November 2022
+
+**Today's Progress**:
+Created README docs for the frontend and backend repos from our group project from last week. Finished writing JSDoc comments in the code for both the frontend and backend repos. As we went through the code again, it was good to review my understanding of how each part connects and communicates with other parts from the front to the backend. 
