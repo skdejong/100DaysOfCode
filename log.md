@@ -615,3 +615,25 @@ I really enjoyed today and feel that I learned a lot. As we were reviewing our c
 
 **Today's Progress**:
 Created README docs for the frontend and backend repos from our group project from last week. Finished writing JSDoc comments in the code for both the frontend and backend repos. As we went through the code again, it was good to review my understanding of how each part connects and communicates with other parts from the front to the backend. 
+
+### Day 59: 1 December 2022
+
+**Today's Progress**:
+Today we learned about Identity as a Service (IDaaS), a cloud-based authentication built and operated by a third-party provider. Examples of IDaaS providers are Auth0, AWS Cognito, Firebase, and Supabase. In the afternoon I started trying to set up authentication on the frontend of a React project. I used Autho0 to integrate the following features within a single-page React app:
+* Allow users to login
+* Allow users to log out
+* If a user is logged in, display their information (e.g. name, email, image URL)
+
+### Day 60: 2 December 2022
+
+**Today's Progress**:
+Today I continued working on yesterday's project. I learned how to call an API that validates ourJSON Web Tokens. The aim was to get our user's metadata to display on the page and we managed to do it!
+
+Next, we worked on protecting the backend of our React project. We created an API that supports the following routes:  
+* GET /api/public
+* GET /api/private
+* GET /api/private-scoped
+
+It took ages to figure out how to get the last one (private-scoped) to work but we finally managed to find and tick the right boxes in the Auth0 API settings to get it to work (hint: check the Machine to Machine Applications tab).
+
+In the last few minutes of the day, I built a React app from scratch that uses authentication via Auth0. The one bit I haven't figure out yet is how to code it so that you can only access the app once you have logged in. Right now it's showing on the main page and also when you log in. Will tackle that problem another day. 
