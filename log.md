@@ -637,3 +637,8 @@ Next, we worked on protecting the backend of our React project. We created an AP
 It took ages to figure out how to get the last one (private-scoped) to work but we finally managed to find and tick the right boxes in the Auth0 API settings to get it to work (hint: check the Machine to Machine Applications tab).
 
 In the last few minutes of the day, I built a React app from scratch that uses authentication via Auth0. The one bit I haven't figure out yet is how to code it so that you can only access the app once you have logged in. Right now it's showing on the main page and also when you log in. Will tackle that problem another day. 
+
+Today I also added a demo video to README files for our week 9 Group Project:
+[Globally Scoped Project Frontend](https://github.com/SchoolOfCode/bc13_w9_project-frontend-globally-scoped)
+and
+[Globally Scoped Project Backend](https://github.com/SchoolOfCode/bc13_w9_project-backend-globally-scoped)
