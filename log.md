@@ -619,7 +619,7 @@ Created README docs for the frontend and backend repos from our group project fr
 ### Day 59: 1 December 2022
 
 **Today's Progress**:
-Today we learned about Identity as a Service (IDaaS), a cloud-based authentication built and operated by a third-party provider. Examples of IDaaS providers are Auth0, AWS Cognito, Firebase, and Supabase. In the afternoon I started trying to set up authentication on the frontend of a React project. I used Autho0 to integrate the following features within a single-page React app:
+Today we learned about Identity as a Service (IDaaS), a cloud-based authentication built and operated by a third-party provider. Examples of IDaaS providers are Auth0, AWS Cognito, Firebase, and Supabase. In the afternoon I started trying to set up authentication on the frontend of a React project. I used [Autho0](https://auth0.com/) to integrate the following features within a single-page React app:
 * Allow users to login
 * Allow users to log out
 * If a user is logged in, display their information (e.g. name, email, image URL)
@@ -642,3 +642,20 @@ Today I also added a demo video to the README files for our week 9 Group Project
 [Globally Scoped Project Frontend](https://github.com/SchoolOfCode/bc13_w9_project-frontend-globally-scoped)
 and
 [Globally Scoped Project Backend](https://github.com/SchoolOfCode/bc13_w9_project-backend-globally-scoped)
+
+### Day 61: 5 December 2022
+
+**Today's Progress**:
+Learned and practiced how to deploy React app projects via [Netlify](https://app.netlify.com/). 
+
+### Day 62: 6 December 2022
+
+**Today's Progress**:
+Learned and practiced how to deploy a backend environment using [Render](https://render.com/). Then deployed the related frontend (a React app shopping list) via [Netlify](https://app.netlify.com/). 
+
+The highlight for me today was learning how to set up my React App from last Friday (2 Dec) so that the user has to log in first before they had access to the app, their user info and their user metadata. 
+
+To do this, we leveraged the Identity as a Service (IDaaS), Auth0 React SDK. It is a JavaScript library for implementing authentication and authorization in React. We used the useAuth0 hook in our components to access authentication states such as (isAuthenticated and user), authentication methods such as logout, as well as the logical conjunction (&&) operator to do it.
+
+In the morning I also completed some katas on Code Wars with my pairing partner for an hour. We started going through [Katas list of Training JS series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series) together. 
+
