@@ -598,11 +598,7 @@ Today we started implementing some changes to the code in our project based on t
  **Thoughts:** 
 I really enjoyed today and feel that I learned a lot. As we were reviewing our code, I tried to explain out loud to my teammates what the code was doing. My teammates were brilliant at explaining anything I didn't understand. They are also helping me to start using the correct syntax. Often I understand and can explain the logic of the code but don't remember the correct technical words to use (such as "rendering a component"). 
 
-**Links to resources**: 
-
-[JSDoc Tool for adding documentation comments](https://jsdoc.app/about-getting-started.html)
-
-[README markdown editor ](https://readme.so/)
+**Links to resources**: [JSDoc Tool for adding documentation comments](https://jsdoc.app/about-getting-started.html) and [README markdown editor ](https://readme.so/)
 
 *Cypress Testing a component of our app:*
 ![Image](./Images/CypressTestofGratitudeComponent.jpg)
@@ -659,3 +655,92 @@ To do this, we leveraged the Identity as a Service (IDaaS), Auth0 React SDK. It 
 
 In the morning I also completed some katas on Code Wars with my pairing partner for an hour. We started going through [Katas list of Training JS series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series) together. 
 
+### Day 63: 7 December 2022
+
+**Today's Progress**:
+Today we learned about a React Hook called useContext that lets you read and subscribe to context from your component.
+
+**Links to resources**: 
+[React Hooks: useContext](https://beta.reactjs.org/apis/react/useContext)  and [Passing Data Deeply with Context](https://beta.reactjs.org/learn/passing-data-deeply-with-context)
+
+### Day 64: 8 December 2022
+
+**Today's Progress**:
+This morning I completed a CodeWars kata with my pairing partners. Then we worked on completing the workshop from yesterday on custom hooks. 
+
+In the afternoon, we learned more about [Couchbase](https://www.couchbase.com/). Couchbase is a DataBase as a Service (DBaaS) provider. 
+
+### Day 65: 9 December 2022
+
+**Today's Progress**:
+Hackathon Friday at School of Code. Our challenge was to ideate, plan, and build a full stack app that included:
+* Deployed front and back ends that talk to each other
+* Use of the useContext hook somewhere in your app
+* Use of at least one custom hook somewhere in your app
+
+It was a huge challenge to do in just 5 hours. We managed the first task and had started on the second one when it was time to present at the end of day. 
+
+### Day 66: 13 December 2022
+
+**Today's Progress**:
+We started learning about TypeScript today. Here's a little code snipped from the first part of our workshop practicing writing in TypeScript:
+
+## Code Snippets
+
+```tsx
+/* TASK 1.1: declare and initialize a boolean variable */
+let isTrue: boolean = true;
+
+/* declare and initialize a string variable */
+let myName: string = "Stephanie";
+
+/* declare and initialize a number */
+let myAge: number = 32;
+
+/* declare and initialize an array of booleans */
+let isVeryTrue: boolean[] = [true, false];
+
+/* declare and initialize an array of strings */
+let stringArray: string[] = ["2", "b", "6"];
+
+/* TASK 1.2: Declare and implement a function which takes in two numbers and 
+returns their sum.*/
+function totalSum(a: number, b: number) {
+  return (a + b);
+}
+console.log(totalSum(2, 8));
+
+/* TASK 1.3: Declare a new type that describes an object containing the keys and 
+types below: 
+amount: a number
+uniqueId: a string
+isValid: a boolean
+addressLines: an array of strings */
+
+type Data = {
+    amount: number;
+    uniqueID: string;
+    isValid: boolean;
+    addressLines: string[];
+};
+
+function getData(personalData: Data) {
+    return personalData.uniqueID; 
+}
+console.log(getData(
+    { 
+    amount: 15, 
+    uniqueID: "Sam", 
+    isValid: true,
+    addressLines: ["1 Park Lane", "2 Falcon Way"] 
+    }
+    ));
+
+    /* TASK 1.4: Declare a new type which is any one of: "BLUE" or "YELLOW" */
+    function setColor(color: string | string ) {
+        return "My favourite color is " + color;
+    }
+    console.log(setColor("BLUE"));
+
+    console.log(setColor("YELLOW"));
+```
