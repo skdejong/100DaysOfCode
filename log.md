@@ -4,7 +4,7 @@
 
 ![Image](./Images/super_64.png) 
 
-Welcome to my #100 Days of Code Log as I take on the challenge to code at least an hour a day for the next 100 days! I am joining the brave new world of learning how to code by starting the School of Code's full stack web development bootcamp. It's full time for the next four months but it's also free. The application process was lengthy but they only accepted 130 people out of nearly 3000 applicants. How could I turn down the opportunity?
+Welcome to my #100 Days of Code Log as I take on the challenge to code at least an hour a day for the next 100 days! I am joining the brave new world of learning how to code by starting the School of Code's full stack web development bootcamp. It's full time for the next four months but it's also free. The application process was lengthy but **School of Code only accepted 3% of the 4000 applicants.** How could I turn down the opportunity?
 #careerchange #womenintech
 
 ![Image](./Images/SchoolOfCode.AccurateName_WebSmallSize.jpg)
@@ -679,6 +679,11 @@ Hackathon Friday at School of Code. Our challenge was to ideate, plan, and build
 * Use of at least one custom hook somewhere in your app
 
 It was a huge challenge to do in just 5 hours. We managed the first task and had started on the second one when it was time to present at the end of day. 
+
+ **Thoughts:** 
+How do you maintain motivation to keep going when you are worn out? After twelve weeks of intensive learning with the School Of Code boot camp, I took the advice that Women In Technology (WIT) shared below so I can press on to keep going in my #100daysofcodechallenge.
+
+![Image](./Images/HowToMaintainMotivation.jpg)
 
 ### Day 66: 13 December 2022
 
