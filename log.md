@@ -749,3 +749,7 @@ console.log(getData(
 
     console.log(setColor("YELLOW"));
 ```
+### Day 67: 14 December 2022
+
+**Today's Progress**:
+Learned how to convert React JavaScript to TypeScript. Spent the day with my pairing partner converting all the .js components of a “to-do list” React app to .tsx components. 
