@@ -4,7 +4,7 @@
 
 ![Image](./Images/super_64.png) 
 
-Welcome to my #100 Days of Code Log as I take on the challenge to code at least an hour a day for the next 100 days! I am joining the brave new world of learning how to code by starting the School of Code's full stack web development bootcamp. It's full time for the next four months but it's also free. The application process was lengthy but **School of Code only accepted 3% of the 4000 applicants.** How could I turn down the opportunity?
+Welcome to my #100 Days of Code Log as I take on the challenge to code at least an hour a day for the next 100 days! I am joining the brave new world of learning how to code by starting the School of Code's full stack web development bootcamp. It's full time for the next four months but it's also free. The application process was lengthy but **School of Code only accepted 3% of the 4000 applicants for my cohort.** How could I turn down the opportunity?
 #careerchange #womenintech
 
 ![Image](./Images/SchoolOfCode.AccurateName_WebSmallSize.jpg)
