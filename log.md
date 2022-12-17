@@ -780,6 +780,8 @@ In the last bit of time we had at the end of the day we managed to add a backgro
 Continued to work through more of the Free Code Camp curriculum for the JavaScript Algorithms and Data Structures Certification. Also started watching Dave Grey's Node.js Tutorials on YouTube.
 
  **Link(s) to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5) 
+
+
  **Link(s) to resources**: [Node.js Tutorials](https://youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw)
 
  **Thoughts:** 
