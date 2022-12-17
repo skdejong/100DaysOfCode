@@ -786,7 +786,7 @@ I have now completed the first twelve weeks of the School of Code (SoC) boot cam
 
 I still feel so behind though in my comprehension and was feeling quite discouraged yesterday. However, Bee helped me gain some perspective by pointing out that before our SoC boot camp started, she spent two months going through some Udemy courses on JavaScript (while also working). At our SoC bootcamp we only spent 3 days learning what she had spent a full 2 months learning on her own. 
 
-I really enjoyed going through this basic JavaScript course on Free Code Camp today. It's so much eaiser on my brain. I'm learning things that so many others on my SoC course already knew before they started. Some of these concepts look familiar to me because we have used them in our coding at SoC but I had not learned them yet. 
+I really enjoyed going through this basic JavaScript course on Free Code Camp today. It's so much easier on my brain. I'm learning things that so many others on my SoC course already knew before they started. Some of these concepts look familiar to me because we have used them in our coding at SoC but I had not learned them yet. 
 
 This post encouraged me too:
 
