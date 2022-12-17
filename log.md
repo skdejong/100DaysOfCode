@@ -779,11 +779,11 @@ In the last bit of time we had at the end of the day we managed to add a backgro
 **Today's Progress**:
 Continued to work through more of the Free Code Camp curriculum for the JavaScript Algorithms and Data Structures Certification. 
 
- **Thoughts:** 
-I have now completed the first twelve weeks of the School of Code (SoC) boot camp. When I started, the only coding I knew how to do was some basic Python from the Code First Girls intro course I took last summer. I didn't know any JavaScript, HTLM, or CSS. In these past twelve weeks, we have been taught so much and I've worked incredibly hard - day, night, and on the weekends. I still feel so behind though in my comprehension and was feeling quite discouraged yesterday. 
+ **Link to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5) 
 
-However, my pairing partner yesterday helped me gain some perspective by pointing out that before our SoC boot camp started, she spent two months going through some Udemy courses on JavaScript (while also working). At our SoC bootcamp we only spent 3 days learning what she had spent a full 2 months learning on her own. 
+ **Thoughts:** 
+I have now completed the first twelve weeks of the School of Code (SoC) boot camp. When I started, the only coding I knew how to do was some basic Python from the Code First Girls intro course I took last summer. I didn't know any JavaScript, HTLM, or CSS. I didn't know how to use Git or GitHub either. In these past twelve weeks, we have been taught an incredible amount and I've worked incredibly hard - day, night, and on the weekend. I still feel so behind though in my comprehension and was feeling quite discouraged yesterday. 
+
+However, Bee helped me gain some perspective by pointing out that before our SoC boot camp started, she spent two months going through some Udemy courses on JavaScript (while also working). At our SoC bootcamp we only spent 3 days learning what she had spent a full 2 months learning on her own. 
 
 I really enjoyed going through this basic JavaScript course on Free Code Camp today. It's so much eaiser on my brain. I'm learning things that so many other on my SoC course already knew before they started. Some of these concepts look familiar to me because we have used them in our coding at SoC but I had not learned them yet.  
-
- **Link to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5) 
