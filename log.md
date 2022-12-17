@@ -777,9 +777,10 @@ In the last bit of time we had at the end of the day we managed to add a backgro
 ### Day 70: 17th December 2022
 
 **Today's Progress**:
-Continued to work through more of the Free Code Camp curriculum for the JavaScript Algorithms and Data Structures Certification. 
+Continued to work through more of the Free Code Camp curriculum for the JavaScript Algorithms and Data Structures Certification. Also started watching Dave Grey's Node.js Tutorials on YouTube.
 
- **Link to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5) 
+ **Link(s) to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5) 
+ **Link(s) to resources**: [Node.js Tutorials](https://youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw)
 
  **Thoughts:** 
 I have now completed the first twelve weeks of the School of Code (SoC) boot camp. When I started, the only coding I knew how to do was some basic Python from the Code First Girls intro course I took last summer. I didn't know any JavaScript, HTML, or CSS. I didn't know how to use Git or GitHub. I had never heard of a PERN Stack much less how to code using PostgreSQL, Express, React, and NodeJS. In these past twelve weeks, we have been taught a massive amount and I've worked incredibly hard - day, night, and every weekend. It's amazing how much I have learned and grown in just three months.
