@@ -753,3 +753,37 @@ console.log(getData(
 
 **Today's Progress**:
 Learned how to convert React JavaScript to TypeScript. Spent the day with my pairing partner converting all the .js components of a “to-do list” React app to .tsx components. 
+
+### Day 68: 15 December 2022
+
+**Today's Progress**:
+Today we learned how to use VS Code to debug code. We also learned a bit more about how to code using TypeScript.  
+
+Tomorrow I have a progress interview. Therefore, I also took some time to review the code from our week 9 group project to make sure I understood it. My programming pair partner for this week, Beatrice, was kind enough to let me practice explaining it to her. She asked me some good questions about it too. 
+
+In the evening I met with my mentor, Arthur, and he helped me review and practice answering common interview questions that a someone might be asked when interviewing for a software development job. 
+
+### Day 69: 16th December 2022
+
+**Today's Progress**:
+Hackathon Friday at School of Code. With our programming pair partner our challenge was to build a weather checker app using Typescript and React. The user needed to be able to input the name of a city and have weather information about that city added to the page. 
+
+We first made a plan then created a component tree diagram in Miro before we started any coding. I had my progress interview in the middle of the day so Beatrice did a large chunk of the coding during the 1 1/2 hours that I was away for my interview. 
+
+In the last bit of time we had at the end of the day we managed to add a background image and weather icon which reflects the city's weather. 
+
+![Image](./Images/London.TypeScript.React.Hackathon.jpg)
+
+### Day 70: 17th December 2022
+
+**Today's Progress**:
+Continued to work through more of the Free Code Camp curriculum for the JavaScript Algorithms and Data Structures Certification. 
+
+ **Thoughts:** 
+I have now completed the first twelve weeks of the School of Code (SoC) boot camp. When I started, the only coding I knew how to do was some basic Python from the Code First Girls intro course I took last summer. I didn't know any JavaScript, HTLM, or CSS. In these past twelve weeks, we have been taught so much and I've worked incredibly hard - day, night, and on the weekends. I still feel so behind though in my comprehension and was feeling quite discouraged yesterday. 
+
+However, my pairing partner yesterday helped me gain some perspective by pointing out that before our SoC boot camp started, she spent two months going through some Udemy courses on JavaScript (while also working). At our SoC bootcamp we only spent 3 days learning what she had spent a full 2 months learning on her own. 
+
+I really enjoyed going through this basic JavaScript course on Free Code Camp today. It's so much eaiser on my brain. I'm learning things that so many other on my SoC course already knew before they started. Some of these concepts look familiar to me because we have used them in our coding at SoC but I had not learned them yet.  
+
+ **Link to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5) 
