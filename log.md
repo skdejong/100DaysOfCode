@@ -761,7 +761,7 @@ Today we learned how to use VS Code to debug code. We also learned a bit more ab
 
 Tomorrow I have a progress interview. Therefore, I also took some time to review the code from our week 9 group project to make sure I understood it. My programming pair partner for this week, Beatrice, was kind enough to let me practice explaining it to her. She asked me some good questions about it too. 
 
-In the evening I met with my mentor, Arthur, and he helped me review and practice answering common interview questions that a someone might be asked when interviewing for a software development job. 
+In the evening I met with my mentor, Arthur, and he helped me review and practice answering common interview questions that someone might be asked when interviewing for a software development job. 
 
 ### Day 69: 16th December 2022
 
