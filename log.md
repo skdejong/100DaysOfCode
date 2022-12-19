@@ -794,3 +794,13 @@ I really enjoyed going through this basic JavaScript course on Free Code Camp to
 This post encouraged me too:
 
 ![Image](./Images/ClimbingStepsJourney.jpg)
+
+### Day 71: 19th December 2022
+
+**Today's Progress**: 
+This morning David Adams, Site Reliability Engineer (SRE) at ManyPets, gave us a interesting, practical presentation about the Continuous Integration and Continuous Delivery (CI/CD) cycle.
+
+In the afternoon, we met our new programming pair partner for the week and together we started learning more about Amazon Web Services' many products. We created a new AWS account and followed the Amplify with React tutorial
+to create a full stack application with the AWS Amplify Comment Line Interface (CLI). We didn’t have time today to add authentication to the app or deploy and host it but managed to get everything else done from the tutorial.  
+
+ **Link(s) to resources**: [Amplify with React Tutorial](https://docs.amplify.aws/start/q/integration/react/)
