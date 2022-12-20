@@ -800,7 +800,18 @@ This post encouraged me too:
 **Today's Progress**: 
 This morning David Adams, Site Reliability Engineer (SRE) at ManyPets, gave us a interesting, practical presentation about the Continuous Integration and Continuous Delivery (CI/CD) cycle.
 
-In the afternoon, we met our new programming pair partner for the week and together we started learning more about Amazon Web Services' many products. We created a new AWS account and followed the Amplify with React tutorial
+In the afternoon, I  met my new programming pair partner for the week and together we started learning more about Amazon Web Services' many products. We created a new AWS account and followed the Amplify with React tutorial
 to create a full stack application with the AWS Amplify Comment Line Interface (CLI). We didn’t have time today to add authentication to the app or deploy and host it but managed to get everything else done from the tutorial.  
 
  **Link(s) to resources**: [Amplify with React Tutorial](https://docs.amplify.aws/start/q/integration/react/)
+
+ ### Day 72: 20th December 2022
+
+**Today's Progress**: 
+This afternoon we did group research projects on Nextjs, Gatsby, and Remix. Each programming pair was assigned one of the React frameworks to research. We later presented to groups who  looked at the other two frameworks. My programming partner and I were assigned to research Remix. As part of our research we created a Remix project from scratch. Our group presentations at the end led to some interesting discussions about which framework was better to use depending on your needs. 
+
+In the morning I also solved a CodeWars kata with my programming pair partner for this week. 
+
+ **Link(s) to resources**: [Nextjs](https://nextjs.org/docs), 
+[Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-0/), and 
+[Remix](https://remix.run/docs/en/v1/tutorials/blog)
