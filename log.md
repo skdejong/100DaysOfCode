@@ -815,3 +815,17 @@ In the morning I also solved a CodeWars kata with my programming pair partner fo
  **Link(s) to resources**: [Nextjs](https://nextjs.org/docs), 
 [Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-0/), and 
 [Remix](https://remix.run/docs/en/v1/tutorials/blog)
+
+ ### Day 73: 21th December 2022
+
+**Today's Progress**: 
+Continuted watching Dave Grey's Node.js Tutorials on YouTube and writing the code along with the tutorial. 
+
+**Link(s) to resources**: [Node.js Tutorials](https://youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw)
+
+### Day 74: 24th December 2022
+
+**Today's Progress**: 
+Continued to work through more of the Free Code Camp curriculum for the JavaScript Algorithms and Data Structures Certification. 
+
+ **Link(s) to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5)  
