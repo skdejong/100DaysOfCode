@@ -833,6 +833,15 @@ Continued to work through more of the Free Code Camp curriculum for the JavaScri
  ### Day 75: 27th December 2022
 
 **Today's Progress**: 
-Continued to work through more of the Free Code Camp curriculum for the JavaScript Algorithms and Data Structures Certification. 
+Continued to work through more of the Free Code Camp curriculum for the JavaScript Algorithms and Data Structures Certification. Also watched more of Dave Grey's Node.js Tutorial playlist on YouTube.
 
- **Link(s) to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5)
+ **Link to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5)
+
+ **Link to resources**: [Node.js Tutorials](https://youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw)
+
+ ### Day 76: 28th December 2022
+
+**Today's Progress**: 
+Continued to work through more of the Free Code Camp curriculum for the JavaScript Algorithms and Data Structures Certification.
+
+**Link to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5)
