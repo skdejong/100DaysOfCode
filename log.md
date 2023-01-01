@@ -852,3 +852,10 @@ Continued to work through more of the Free Code Camp curriculum for the JavaScri
 Continued to work through more of the Free Code Camp curriculum for the JavaScript Algorithms and Data Structures Certification.
 
 **Link to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5)
+
+ ### Day 78: 1st January 2023
+
+**Today's Progress**:
+Continued to work through more of the Free Code Camp curriculum for the JavaScript Algorithms and Data Structures Certification.
+
+**Link to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5)
