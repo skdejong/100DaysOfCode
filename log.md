@@ -878,7 +878,7 @@ Today as a team we accomplished the following:
 
 **Thoughts:** 
 
-Today was our first day back after a two-week holiday and the first thing we did was find out who our teammates are for this final project. I have only worked with one of my five teammates (pair programming) before but know some of them as we’re in a larger 40 person group on the bootcamp. I am very excited to about our team. They are all great people and we have huge potential. 
+Today was our first day back after a two-week holiday and the first thing we did was find out who our teammates are for this final project. I have only worked with one of my five teammates (pair programming) before but know some of them as we’re in a larger 40 person group (A) on the bootcamp. I am very excited to about our team. They are all great people and we have huge potential. 
 
 ![Frugal Fanatics Team Photo](Images/FrugalFanaticsTeamPhoto(6Jan2023).jpg)
 
@@ -899,13 +899,13 @@ User Stories:
 
 ![User Stories](Images/User%20Stories.jpg)
 
-#### Our solution will be an app which provides a customized budget tool with tips and links to external resources for additional help.
+#### *Our solution will be an app which provides a customized budget tool with tips and links to external resources for additional help.*
 
 The Unique Selling Point (USP) of our app will be:
 * Accessible to everyone (including people with disabilities)
 * Light-hearted and gamified. Fun and creative, helping to lower stress. 
 
-Now that we had agreed on an idea for our app we decided on a team name: Frugal Fanatics
+Now that we had agreed on an idea for our app we decided on a team name: *Frugal Fanatics*
 
 ![Image](./Images/IncreaseSavings.jpg)
 
@@ -922,7 +922,7 @@ We also created a Market Research Survey on Google docs. I shared it on LinkedIn
 
 **Today's Progress**:
 
-We had 74 people complete our Market Research Survey! The results led us to quickly pivot our MVP based on the feedback from our user base. 
+We had 74 people complete our Market Research Survey! *The results led us to quickly pivot our MVP based on the user feedback.* 
 
 It showed that the vast majority of those surveyed have increased stress and anxiety as a result of the cost of living crisis. This led us to decide to add a component to the app which would help them, such as a mindfulness element. 
 
@@ -938,7 +938,11 @@ Today we also finished our low fidelity wireframes.
 
 We made final decisions on our Tech stack today, including using relational databases over non-relational. We also decided on our Git branching strategy (GitHub Flow) and practiced it using a practice repo. We will be protecting the main branch and deploying after every sprint. In addtion, we agreed on our colour scheme. 
 
+#### Tech Stack:
+
 ![Tech Stack](Images/TechStackChosen.jpg)
+
+#### Colour Scheme:
 
 ![Color Scheme](Images/Color%20scheme%20for%20Frugal%20Fanatics%20project.png)
 
@@ -952,19 +956,23 @@ We finally started coding today!
 * We created front and back end repos. I installed the relevant dependencies for our front end repo (Nextjs, Tailwindcss, Postcss, Autoprefixer, Heroicons, Headlessui, and Prettier). I also installed the Tailwindcss Intellisense VSCode Extension for uniformity and help when creating inline CSS. 
 * We decided on the naming convention for the files and folder layout. Instead of using index.js we will name each file by the component for example DashboardLayout.js
 
+#### Team Rota:
+
 ![Team Rota](Images/Team%20Rota%20Frugal%20Fanatics.jpg)
 
 Other work we did today as a team:
 
-On the Front End - 
+On the Front End: 
 * Created the desktop/mobile sidebar and navbar.
 * Started sourcing doughnut charts to display our savings data.
 
-On the Back End - 
+On the Back End: 
 * Completed setting up back end. Installed dependencies and created index.js/app.js. 
 * Created a database in elephantSQL after playing with data on dbfiddle
 * Updated Entity Relationship Diagram (ERD) for the database with new details
 
+
+#### Entity Relationship Diagram
 ![Entity Relationship Diagram](Images/EntityRelationshipDiagram(ERD)%20for%20databse.jpg)
 
 ### Day 85: 11th January 2023
