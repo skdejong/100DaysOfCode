@@ -863,16 +863,24 @@ Continued to work through more of the Free Code Camp curriculum for the JavaScri
 ### Day 79: 3rd January 2023
 
 **Today's Progress**:
+
 This month at School of Code we have been put into teams of six people and tasked with designing a full stack web application which solves a real-world problem. The aim of this month-long project is to help us experience what it’s like to be part of a real-life engineering team building a practical solution for our end users. 
+
+Today as a team we accomplished the following:
+* Wrote and agreed upon our Team Manifesto which includes core items like how to work together and our recovery strategy.
+* Discussed the strengths, preferences, weaknesses and goals of each person on the team and how we can work together to maximize each other’s potential. 
+* Brainstormed about a problem that we want to solve as a team. Considered how we could use technology to solve a problem affecting our end users. We used a Figma Jamboard that I created and the Disney Ideation Method. 
+* Discussed roles and responsibilities within the team. I volunteered to serve at the scrum coach for the week and I created a Trello board to help with our planning and prioritising. 
+
+#### Key Principles from our Team Manifesto:
+
+![Final Team Manifesto](Images/TeamManifestoTopFrugalFanatics(3Jan2023).jpg)
+
+**Thoughts:** 
 
 Today was our first day back after a two-week holiday and the first thing we did was find out who our teammates are for this final project. I have only worked with one of my five teammates (pair programming) before but know some of them as we’re in a larger 40 person group on the bootcamp. I am very excited to about our team. They are all great people and we have huge potential. 
 
-Today as a team we accomplished the following:
-* Wrote and agreed upon Team Manifesto which includes core items like how to work together and our recovery strategy.
-* Discussed the strengths, preferences, weaknesses and goals of each person on the team and how we can work together to maximize each other’s potential. 
-* Brainstormed about a problem that we want to solve as a team. Considered how we could use technology to solve a problem affecting our end users. We used a Figma Jamboard that I created and the Disney Ideation Method. 
-* Discussed roles and responsibilities within the team. I volunteered to serve at the scrum coach for the week created a Trello board to help with project management. 
-
+![Frugal Fanatics Team Photo](Images/FrugalFanaticsTeamPhoto(6Jan2023).jpg)
 
 ### Day 80: 4th January 2023
 
@@ -883,17 +891,21 @@ Disney Ideation Method:
 * Then we brainstormed possible solutions for the 6 problems. After that, we voted again to narrow it down to 3 potential problems we could solve with our app. 
 * We took those three ideas through the Realist and Critic rooms then voted again to decide on the one problem we would aim to solve: the cost of living crisis. 
 
+![Brainstorming using Disney Ideation Method](Images/Disney%20Ideation%20Method%20-%20Realist%20and%20Critic%20rooms.jpg)
+
 User Stories:
 * Once we decided on the problem we wanted to help solve, we each drafted a user stories. 
-•	We decided that our users wanted to get out of debt and learn how to budget. 
-•	Our solution would be an app which provided a customized budget tool with tips and links to external resources for additional help.
+* We decided that our users wanted to get out of debt and learn how to budget. 
+
+![User Stories](Images/User%20Stories.jpg)
+
+#### Our solution will be an app which provides a customized budget tool with tips and links to external resources for additional help.
 
 The Unique Selling Point (USP) of our app will be:
 * Accessible to everyone (including people with disabilities)
 * Light-hearted and gamified. Fun and creative, helping to lower stress. 
 
-Now that we had agreed on an idea for our app we decided on a team name: 
-the Frugal Fanatics
+Now that we had agreed on an idea for our app we decided on a team name: Frugal Fanatics
 
 ![Image](./Images/IncreaseSavings.jpg)
 
@@ -902,10 +914,9 @@ the Frugal Fanatics
 **Today's Progress**:
 Today we began to define our Minimum Viable Product (MVP) and to design a basic low fidelity wireframe based on our requirements.
 
-We also created a Market Research Survey on Google docs. I shared it on LinkedIn, Facebook, and on the School of Code Slack channels to gather as many user opinions as we could get. 
+We also created a Market Research Survey on Google docs. I shared it on LinkedIn, Facebook, and on the School of Code Slack channels to gather as much feedback as possible.
 
-**Link to work**: [Frugal Fanatics Market Research Survey](https://forms.gle/5kotbG6x2PodcPJHA)
-
+**Link to our survey**: [Frugal Fanatics Market Research Survey](https://forms.gle/5kotbG6x2PodcPJHA)
 
 ### Day 82: 6th January 2023
 
@@ -919,21 +930,29 @@ Users also indicated that they were keen to have a budgeting tool as well as a t
 
 Today we also finished our low fidelity wireframes. 
 
-
+![MVP for Sprint 1](Images/MVP%20for%20Sprint%201.jpg)
 
 ### Day 83: 9th January 2023
 
 **Today's Progress**:
+
 We made final decisions on our Tech stack today, including using relational databases over non-relational. We also decided on our Git branching strategy (GitHub Flow) and practiced it using a practice repo. We will be protecting the main branch and deploying after every sprint. In addtion, we agreed on our colour scheme. 
+
+![Tech Stack](Images/TechStackChosen.jpg)
+
+![Color Scheme](Images/Color%20scheme%20for%20Frugal%20Fanatics%20project.png)
 
 ### Day 84: 10th January 2023
 
 **Today's Progress**:
+
 We finally started coding today! 
 * This morning I represented our team at the Stand up of Stand ups. 
 * In our morning team meeting we agreed on a rota so that we will all have a chance to work on the back and front end and also to pair programme with each person on the team. 
 * We created front and back end repos. I installed the relevant dependencies for our front end repo (Nextjs, Tailwindcss, Postcss, Autoprefixer, Heroicons, Headlessui, and Prettier). I also installed the Tailwindcss Intellisense VSCode Extension for uniformity and help when creating inline CSS. 
 * We decided on the naming convention for the files and folder layout. Instead of using index.js we will name each file by the component for example DashboardLayout.js
+
+![Team Rota](Images/Team%20Rota%20Frugal%20Fanatics.jpg)
 
 Other work we did today as a team:
 
@@ -946,11 +965,15 @@ On the Back End -
 * Created a database in elephantSQL after playing with data on dbfiddle
 * Updated Entity Relationship Diagram (ERD) for the database with new details
 
+![Entity Relationship Diagram](Images/EntityRelationshipDiagram(ERD)%20for%20databse.jpg)
+
 ### Day 85: 11th January 2023
 
 **Today's Progress**:
 
-We merged all the front and back end branches this morning so we are moving forward on a uniform copy. With my pair partner for the day I set up the back end to include 3 models and 3 routes connected to the database tables on elephantSQL. Today’s front end team:
+We merged all the front and back end branches this morning so we are moving forward on a uniform copy. With my pair partner for the day I set up the back end to include 3 models and 3 routes connected to the database tables on elephantSQL. 
+
+Today’s front end teams:
 * Created form components and styled to match the wireframes. 
 * Set up the dashboard data with a hard coded object that will be populated by the back end.
 
@@ -961,20 +984,12 @@ Today I was working with a different partner on the back end. We debugged and su
 
 I drafted the README doc for our back end repo. 
 
-We also deployed the back end to Render. 
-
-[Users Table](https://frugalfanaticsbackend.onrender.com/api/userRoutes)
-
-[Expenses Table](https://frugalfanaticsbackend.onrender.com/api/expensesRoutes)
-
-[Savings Table](https://frugalfanaticsbackend.onrender.com/api/savingsRoutes)
-
-
+We also deployed the back end to Render: [Users Table](https://frugalfanaticsbackend.onrender.com/api/userRoutes), [Expenses Table](https://frugalfanaticsbackend.onrender.com/api/expensesRoutes), and [Savings Table](https://frugalfanaticsbackend.onrender.com/api/savingsRoutes)
 
 ### Day 87: 13th January 2023
 
 **Today's Progress**:
-This morning I finished debugging and testing the back-end GET and POST requests for users, expenses and savings. 
+This morning, with my partner, I finished debugging and testing the back-end GET and POST requests for users, expenses and savings. 
 
 We then prepared our group presentation for our mid-month product demos which we showed in the afternoon to everyone in Group A (around 40 people). We received some helpful feedback from the coaches which we will bring into our planning next week.  
 
@@ -982,3 +997,10 @@ We then prepared our group presentation for our mid-month product demos which we
 
 **Today's Progress**:
 Worked on documenting our teams progress since we started, including taking screen shots and recoding videos which demonstrate our app as it is today. 
+
+![Onboarding Income](Images/Onboarding1_Income(14Jan2023).jpg)
+![Onboarding Expenses](Images/Onboarding2_Expenses(14Jan2023).jpg)
+![Onboarding Savings](Images/Onboarding3_Savings(14Jan2023).jpg)
+![Overview](Images/OverviewPage(14Jan2023).jpg)
+![Budgeting Page](Images/BudgetingPage(14Jan2023).jpg)
+![Savings Page](Images/SavingsPage(14Jan2023).jpg)
