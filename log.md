@@ -859,3 +859,126 @@ Continued to work through more of the Free Code Camp curriculum for the JavaScri
 Continued to work through more of the Free Code Camp curriculum for the JavaScript Algorithms and Data Structures Certification.
 
 **Link to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5)
+
+### Day 79: 3rd January 2023
+
+**Today's Progress**:
+This month at School of Code we have been put into teams of six people and tasked with designing a full stack web application which solves a real-world problem. The aim of this month-long project is to help us experience what it’s like to be part of a real-life engineering team building a practical solution for our end users. 
+
+Today was our first day back after a two-week holiday and the first thing we did was find out who our teammates are for this final project. I have only worked with one of my five teammates (pair programming) before but know some of them as we’re in a larger 40 person group on the bootcamp. I am very excited to about our team. They are all great people and we have huge potential. 
+
+Today as a team we accomplished the following:
+* Wrote and agreed upon Team Manifesto which includes core items like how to work together and our recovery strategy.
+* Discussed the strengths, preferences, weaknesses and goals of each person on the team and how we can work together to maximize each other’s potential. 
+* Brainstormed about a problem that we want to solve as a team. Considered how we could use technology to solve a problem affecting our end users. We used a Figma Jamboard that I created and the Disney Ideation Method. 
+* Discussed roles and responsibilities within the team. I volunteered to serve at the scrum coach for the week created a Trello board to help with project management. 
+
+
+### Day 80: 4th January 2023
+
+**Today's Progress**:
+
+Disney Ideation Method:
+* Today we continued putting ideas through the Disney Ideation Rooms. Yesterday we had come up with ideas of 23 problems that we could solve. Therefore, we used dot voting to narrow them down to 6 ideas. 
+* Then we brainstormed possible solutions for the 6 problems. After that, we voted again to narrow it down to 3 potential problems we could solve with our app. 
+* We took those three ideas through the Realist and Critic rooms then voted again to decide on the one problem we would aim to solve: the cost of living crisis. 
+
+User Stories:
+* Once we decided on the problem we wanted to help solve, we each drafted a user stories. 
+•	We decided that our users wanted to get out of debt and learn how to budget. 
+•	Our solution would be an app which provided a customized budget tool with tips and links to external resources for additional help.
+
+The Unique Selling Point (USP) of our app will be:
+* Accessible to everyone (including people with disabilities)
+* Light-hearted and gamified. Fun and creative, helping to lower stress. 
+
+Now that we had agreed on an idea for our app we decided on a team name: 
+the Frugal Fanatics
+
+![Image](./Images/IncreaseSavings.jpg)
+
+### Day 81: 5th January 2023
+
+**Today's Progress**:
+Today we began to define our Minimum Viable Product (MVP) and to design a basic low fidelity wireframe based on our requirements.
+
+We also created a Market Research Survey on Google docs. I shared it on LinkedIn, Facebook, and on the School of Code Slack channels to gather as many user opinions as we could get. 
+
+**Link to work**: [Frugal Fanatics Market Research Survey](https://forms.gle/5kotbG6x2PodcPJHA)
+
+
+### Day 82: 6th January 2023
+
+**Today's Progress**:
+
+We had 74 people complete our Market Research Survey! The results led us to quickly pivot our MVP based on the feedback from our user base. 
+
+It showed that the vast majority of those surveyed have increased stress and anxiety as a result of the cost of living crisis. This led us to decide to add a component to the app which would help them, such as a mindfulness element. 
+
+Users also indicated that they were keen to have a budgeting tool as well as a tracker for their expenses and saving. However, not many indicated that they needed help with managing debt. So we decided to shelve the debt tracker for the time being. 
+
+Today we also finished our low fidelity wireframes. 
+
+
+
+### Day 83: 9th January 2023
+
+**Today's Progress**:
+We made final decisions on our Tech stack today, including using relational databases over non-relational. We also decided on our Git branching strategy (GitHub Flow) and practiced it using a practice repo. We will be protecting the main branch and deploying after every sprint. In addtion, we agreed on our colour scheme. 
+
+### Day 84: 10th January 2023
+
+**Today's Progress**:
+We finally started coding today! 
+* This morning I represented our team at the Stand up of Stand ups. 
+* In our morning team meeting we agreed on a rota so that we will all have a chance to work on the back and front end and also to pair programme with each person on the team. 
+* We created front and back end repos. I installed the relevant dependencies for our front end repo (Nextjs, Tailwindcss, Postcss, Autoprefixer, Heroicons, Headlessui, and Prettier). I also installed the Tailwindcss Intellisense VSCode Extension for uniformity and help when creating inline CSS. 
+* We decided on the naming convention for the files and folder layout. Instead of using index.js we will name each file by the component for example DashboardLayout.js
+
+Other work we did today as a team:
+
+On the Front End - 
+* Created the desktop/mobile sidebar and navbar.
+* Started sourcing doughnut charts to display our savings data.
+
+On the Back End - 
+* Completed setting up back end. Installed dependencies and created index.js/app.js. 
+* Created a database in elephantSQL after playing with data on dbfiddle
+* Updated Entity Relationship Diagram (ERD) for the database with new details
+
+### Day 85: 11th January 2023
+
+**Today's Progress**:
+
+We merged all the front and back end branches this morning so we are moving forward on a uniform copy. With my pair partner for the day I set up the back end to include 3 models and 3 routes connected to the database tables on elephantSQL. Today’s front end team:
+* Created form components and styled to match the wireframes. 
+* Set up the dashboard data with a hard coded object that will be populated by the back end.
+
+### Day 86: 12th January 2023
+
+**Today's Progress**:
+Today I was working with a different partner on the back end. We debugged and successfully tested GET requests for userRoutes, expensesRoutes, and savingsRoutes via Postman. We also successfully debugged and tested POST for userRoutes. 
+
+I drafted the README doc for our back end repo. 
+
+We also deployed the back end to Render. 
+
+[Users Table](https://frugalfanaticsbackend.onrender.com/api/userRoutes)
+
+[Expenses Table](https://frugalfanaticsbackend.onrender.com/api/expensesRoutes)
+
+[Savings Table](https://frugalfanaticsbackend.onrender.com/api/savingsRoutes)
+
+
+
+### Day 87: 13th January 2023
+
+**Today's Progress**:
+This morning I finished debugging and testing the back-end GET and POST requests for users, expenses and savings. 
+
+We then prepared our group presentation for our mid-month product demos which we showed in the afternoon to everyone in Group A (around 40 people). We received some helpful feedback from the coaches which we will bring into our planning next week.  
+
+### Day 88: 14th January 2023
+
+**Today's Progress**:
+Worked on documenting our teams progress since we started, including taking screen shots and recoding videos which demonstrate our app as it is today. 
