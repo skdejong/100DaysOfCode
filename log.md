@@ -860,7 +860,7 @@ Continued to work through more of the Free Code Camp curriculum for the JavaScri
 
 **Link to work**: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5)
 
-### Day 79: 3rd January 2023
+### Day 79: 3rd January 2023 -  FINAL PROJECT MONTH
 
 **Today's Progress**:
 
