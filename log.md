@@ -1012,3 +1012,10 @@ Worked on documenting our teams progress since we started, including taking scre
 ![Overview](Images/OverviewPage(14Jan2023).jpg)
 ![Budgeting Page](Images/BudgetingPage(14Jan2023).jpg)
 ![Savings Page](Images/SavingsPage(14Jan2023).jpg)
+
+### Day 89: Monday 16th January 2023
+
+**Today's Progress**:
+Today we discussed our goals for our next week-long sprint which starts today. Our priorities are to get the front and back end connected. Right now we have a fully funtional back end with GET and POST requests working. The front end is working too but with dummy data that's been hard coded. 
+
+My programming pair partner for today and I worked on cleaning up the code on the front end - breaking down the components into groups and updating the terminology to match the database. At the end of the day we met as a team of six again and decided that tomorrow morning, four of us will work together to decide exactly what we need to do to connect the front and back end so we are not doing separate things (on the front and back end) that don't end up working together. 
