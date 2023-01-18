@@ -1021,3 +1021,25 @@ Today we discussed our goals for our next week-long sprint which starts today. O
 My programming pair partner for today and I worked on cleaning up the code on the front end: breaking down the components into groups and updating the terminology to match the database. At the end of the day, we met as a team of six again and decided that tomorrow morning four of us will work together to agree upon how we want to connect the front and back end so we are not doing separate things (on the front and back end) that don't end up working together. 
 
 We are also considering at what stage we will implement authentication - at the start before completing the budget information form, or only after that form has been completed but before displaying the custom dashboard which is populated with data from the completed form.  
+
+### Day 90: 17th January 2023 
+
+**Today's Progress**:
+Last week, we created a custom Express.js server on the back end and built our front end using the Next.js React framework. We realised this week that there are some challenges with connecting these two. Therefore, today we explored some other options for the back end that would work better with Next.js, such as Supabase. Some of the features that Supabase offers are a Postgres database and authentication. It is also open-source. We spent today discussing, researching and experimenting to determine the best option to use.  While I was doing this with a few of my teammates, two others from our group worked together to get the front end deployed on Netlify today as well. When we divide and conquer we make great progress! 
+
+**Link(s) to resources**: [Supabase](https://frugalfanaticsbackend.onrender.com/api/userRoutes)
+
+
+### Day 91: 18th January 2023 
+
+**Today's Progress**:
+Yesterday afternoon we created a test branch off our main front end branch and scaled it down to test whether we could get Supabase working with authentication and our simplified Next.js app. We managed to get it working so decided to go with Supabase + Next.js instead of elephantSQL and Express.js with Next.js. It was easy to quickly replicate our Postgres database in Supabase. Then we started refactoring our code on the front end using Supabase. It's been slow going as it's all new to us. Up to this point, the only authentication that we've learned in the bootcamp was how to use Auth0 as a login for a simple static site. Our app for this project, however, requires authentication and authorization when accessing the database and it's also a dynamic website.  
+
+We also spent time as a team today discussing how we can make our app fun and gamefied since that's one of our unique selling points. We have some great ideas which we hope to implement once we connecting the front and back ends. 
+
+Two of our team worked togehter today updating the front end to make it accessible. By the end of the day, Google's Lighthouse accessibility audit was showing all green with 100% ratings. 
+
+This evening I spent some time reading through documentation on Next.js and Supabase so I have a better understanding of how they work. I feel more confident now going into tomorrow. 
+
+![About Next.js](Images/About%20Next.js(18Jan2023).jpg)
+
