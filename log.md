@@ -1025,7 +1025,7 @@ We are also considering at what stage we will implement authentication - at the 
 ### Day 90: 17th January 2023 
 
 **Today's Progress**:
-Last week, we created a custom Express.js server on the back end and built our front end using the Next.js React framework. We realised this week that there are some challenges with connecting these two. Therefore, today we explored some other options for the back end that would work better with Next.js, such as Supabase. Some of the features that Supabase offers are a Postgres database and authentication. It is also open-source. We spent today discussing, researching and experimenting to determine the best option to use.  While I was doing this with a few of my teammates, two others from our group worked together to get the front end deployed on Netlify today as well. When we divide and conquer we make great progress! 
+Last week, we created a custom Express.js server on the back end and built our front end using the Next.js React framework. We realised this week that there are some challenges with connecting these two. Therefore, today we explored some other options for the back end that would work better with Next.js, such as Supabase. Some of the features that Supabase offers are a Postgres database and authentication. It is also open-source. We spent today discussing, researching and experimenting to determine the best option to use.  While I was doing this with a few of my teammates, two others from our group worked together to get the front end deployed on Netlify as well. When we divide and conquer we make great progress together as a team! 
 
 **Link(s) to resources**: [Supabase](https://frugalfanaticsbackend.onrender.com/api/userRoutes)
 
@@ -1035,11 +1035,23 @@ Last week, we created a custom Express.js server on the back end and built our f
 **Today's Progress**:
 Yesterday afternoon we created a test branch off our main front end branch and scaled it down to test whether we could get Supabase working with authentication and our simplified Next.js app. We managed to get it working so decided to go with Supabase + Next.js instead of elephantSQL and Express.js with Next.js. It was easy to quickly replicate our Postgres database in Supabase. Then we started refactoring our code on the front end using Supabase. It's been slow going as it's all new to us. Up to this point, the only authentication that we've learned in the bootcamp was how to use Auth0 as a login for a simple static site. Our app for this project, however, requires authentication and authorization when accessing the database and it's also a dynamic website.  
 
-We also spent time as a team today discussing how we can make our app fun and gamefied since that's one of our unique selling points. We have some great ideas which we hope to implement once we connecting the front and back ends. 
+We also spent time as a team today discussing how we can make our app fun and gamefied since that's one of our unique selling points. We have some great ideas which we hope to implement once we finish connecting the front and back ends. 
 
-Two of our team worked togehter today updating the front end to make it accessible. By the end of the day, Google's Lighthouse accessibility audit was showing all green with 100% ratings. 
+Two of our team worked together today updating the front end to make it accessible. By the end of the day, Google's Lighthouse accessibility audit was showing all green with 100% ratings. 
 
-This evening I spent some time reading through documentation on Next.js and Supabase so I have a better understanding of how they work. I feel more confident now going into tomorrow. 
+This evening I spent some time reading through documentation on Next.js and supabase so I have a better understanding of how they work. I feel more confident now going into tomorrow. 
+
+![Tech Stack starting week 3](Images/TechStack.week3(19Jan2023).jpg)
 
 ![About Next.js](Images/About%20Next.js(18Jan2023).jpg)
 
+### Day 92: 19th January 2023 
+Discussed our goals first this this morning. Decided to make dark mode the default mode for our app as we all think it looks better (based on our high fidelity wireframes). 
+
+Then we split into two teams for the day. My team continued refactoring the code on our front end to add authentication wtih supabase. It was slow going but we made some good progress. 
+
+The second team worked on making the savings page of our app look more fun with icons and colors. 
+
+We also had the opportunity to hear from two companies that are hiring for roles that we can apply for when we finish the bootcamp. One of them is hosting a hackathon next week for potential applicants. Exciting!
+
+![Step by step you will get there](Images/step%20by%20step.jpg)
