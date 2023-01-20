@@ -1041,9 +1041,9 @@ Two of our team worked together today updating the front end to make it accessib
 
 This evening I spent some time reading through documentation on Next.js and supabase so I have a better understanding of how they work. I feel more confident now going into tomorrow. 
 
-![Tech Stack starting week 3](Images/TechStack.week3(19Jan2023).jpg)
+#### Tech Stack starting week 3
+![Alt text](Images/Tech%20Stack%20week%203.jpg)
 
-![About Next.js](Images/About%20Next.js(18Jan2023).jpg)
 
 ### Day 92: 19th January 2023 
 Discussed our goals first this this morning. Decided to make dark mode the default mode for our app as we all think it looks better (based on our high fidelity wireframes). 
@@ -1055,3 +1055,20 @@ The second team worked on making the savings page of our app look more fun with 
 We also had the opportunity to hear from two companies that are hiring for roles that we can apply for when we finish the bootcamp. One of them is hosting a hackathon next week for potential applicants. Exciting!
 
 ![Step by step you will get there](Images/step%20by%20step.jpg)
+
+### Day 93: 20th January 2023 
+Today we agreed on the name of our app: frumo (short for frugal money). 
+
+My pairing partner and I started working on the dark mode version of our app. I enjoyed learning how to use Tailwind CSS for the first time.
+
+We also prepared and gave a presentation to the coaches and other teams in Group A summarizing what we accomplished this week. 
+
+#### Sprint goals week 3 and accomplishments:
+![Sprint goals week 3](Images/Sprint%20goals%20week%203%20(20Jan2023).jpg)
+
+#### Savings page with features added to make it more fun:
+![AGamefied savings page](Images/Savings%20page%20end%20of%20week%203%20(20Jan2023).jpg)
+
+#### Accessibility - Lighthouse Audit
+![Accessibility - Lighthouse Audit](Images/Accessibility%20Lighthouse%20Audit%20%20(20Jan2023).jpg)
+
