@@ -1044,6 +1044,11 @@ This evening I spent some time reading through documentation on Next.js and supa
 #### Tech Stack starting week 3
 ![Alt text](Images/Tech%20Stack%20week%203.jpg)
 
+#### Accessibility - Lighthouse Audit
+![Accessibility:Lighthouse Audit Overview page](Images/LighthouseAudit_Overview_AFTER.jpg)
+![Accessibility:Lighthouse Audit Budgeting page](Images/LighthouseAudit_Budgeting_AFTER.jpg)
+![Accessibility:Lighthouse Audit Savings page](Images/LighthouseAudit_Savings_AFTER.jpg)
+
 
 ### Day 92: 19th January 2023 
 Discussed our goals first this this morning. Decided to make dark mode the default mode for our app as we all think it looks better (based on our high fidelity wireframes). 
@@ -1054,7 +1059,8 @@ The second team worked on making the savings page of our app look more fun with 
 
 We also had the opportunity to hear from two companies that are hiring for roles that we can apply for when we finish the bootcamp. One of them is hosting a hackathon next week for potential applicants. Exciting!
 
-![Step by step you will get there](Images/step%20by%20step.jpg)
+#### High Fidelity Wireframe dark mode
+![High Fidelity Wireframe dark mode](Images/High%20Fidelity%20Wireframe%20dark%20mode.jpg)
 
 ### Day 93: 20th January 2023 
 Today we agreed on the name of our app: frumo (short for frugal money). 
@@ -1068,7 +1074,4 @@ We also prepared and gave a presentation to the coaches and other teams in Group
 
 #### Savings page with features added to make it more fun:
 ![AGamefied savings page](Images/Savings%20page%20end%20of%20week%203%20(20Jan2023).jpg)
-
-#### Accessibility - Lighthouse Audit
-![Accessibility - Lighthouse Audit](Images/Accessibility%20Lighthouse%20Audit%20%20(20Jan2023).jpg)
 
