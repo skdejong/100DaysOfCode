@@ -1051,7 +1051,7 @@ This evening I spent some time reading through documentation on Next.js and supa
 
 
 ### Day 92: 19th January 2023 
-Discussed our goals first this this morning. Decided to make dark mode the default mode for our app as we all think it looks better (based on our high fidelity wireframes). 
+Discussed our goals first thing this morning. Decided to make dark mode the default mode for our app as we all think it looks better (based on our high fidelity wireframes). 
 
 Then we split into two teams for the day. My team continued refactoring the code on our front end to add authentication wtih supabase. It was slow going but we made some good progress. 
 
