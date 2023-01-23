@@ -1051,6 +1051,8 @@ This evening I spent some time reading through documentation on Next.js and supa
 
 
 ### Day 92: 19th January 2023 
+
+**Today's Progress**:
 Discussed our goals first thing this morning. Decided to make dark mode the default mode for our app as we all think it looks better (based on our high fidelity wireframes). 
 
 Then we split into two teams for the day. My team continued refactoring the code on our front end to add authentication wtih supabase. It was slow going but we made some good progress. 
@@ -1063,6 +1065,8 @@ We also had the opportunity to hear from two companies that are hiring for roles
 ![High Fidelity Wireframe dark mode](Images/High%20Fidelity%20Wireframe%20dark%20mode.jpg)
 
 ### Day 93: 20th January 2023 
+
+**Today's Progress**:
 Today we agreed on the name of our app: frumo (short for frugal money). 
 
 My pairing partner and I started working on the dark mode version of our app. I enjoyed learning how to use Tailwind CSS for the first time.
@@ -1077,6 +1081,8 @@ We also prepared and gave a presentation to the coaches and other teams in Group
 
 
 ### Day 94: 23th January 2023 
+
+**Today's Progress**:
 I spent most of today with my pairing partner updating the code so that our app runs by default in dark mode and the dark mode matches our high fidelity wireframe. It was a lot of gruntwork but the end result looks good. It also helped me to get more familiar with the interworking of the code on the front end, Tailwindcss, and figma. We also tried adding a celebration animation to the app for when a goal is achieved to make the app more fun. 
 
 Another pairing group from our team worked on the landing page. The third pairing group from our team continued working on the savings page. 
