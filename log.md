@@ -1081,6 +1081,10 @@ I spent most of today with my pairing partner updating the code so that our app 
 
 Another pairing group from our team worked on the landing page. The third pairing group from our team continued working on the savings page. 
 
+At the end of today, the team decided that I should be the scrum leader for the rest of our time working together. I served as the scrum leader our first week and then we started changing to a new scrum leader every two days. Even though half the team initially weren't keen on being a scrum leader, we thought everyone should have the chance to lead because it would be a good experience. It was also interesting to see people's different leadership styles. 
+
+#### frumo app in dark mode :
+
 ![Landing Page](Images/LandingPage(23Jan2023).jpg)
 
 ![Sign Up Page](Images/SignUpPage(23Jan2023).jpg)
