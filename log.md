@@ -1075,3 +1075,24 @@ We also prepared and gave a presentation to the coaches and other teams in Group
 #### Savings page with features added to make it more fun:
 ![AGamefied savings page](Images/Savings%20page%20end%20of%20week%203%20(20Jan2023).jpg)
 
+
+### Day 94: 23th January 2023 
+I spent most of today with my pairing partner updating the code so that our app runs by default in dark mode and the dark mode matches our high fidelity wireframe. It was a lot of gruntwork but the end result looks good. It also helped me to get more familiar with the interworking of the code on the front end, Tailwindcss, and figma. We also tried adding a celebration animation to the app for when a goal is achieved to make the app more fun. 
+
+Another pairing group from our team worked on the landing page. The third pairing group from our team continued working on the savings page. 
+
+![Landing Page](Images/LandingPage(23Jan2023).jpg)
+
+![Sign Up Page](Images/SignUpPage(23Jan2023).jpg)
+
+![Sign In Page](Images/SignInPage(23Jan2023).jpg)
+
+![Form Income Page](Images/FormIncomePage(23Jan2023).jpg)
+
+![Form Expenses Page](Images/FormExpensesPage(23Jan2023).jpg)
+
+![Form Savings Page](Images/FormSavingsPage(23Jan2023).jpg)
+
+![Overview Page](Images/OverviewPage(23Jan2023).jpg)
+
+![Budgeting Page](Images/BudgetingPage(23Jan2023).jpg)
