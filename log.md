@@ -1083,7 +1083,7 @@ We also prepared and gave a presentation to the coaches and other teams in Group
 ### Day 94: 23th January 2023 
 
 **Today's Progress**:
-I spent most of today with my pairing partner updating the code so that our app runs by default in dark mode and the dark mode matches our high fidelity wireframe. It was a lot of gruntwork but the end result looks good. It also helped me to get more familiar with the interworking of the code on the front end, Tailwindcss, and figma. We also tried adding a celebration animation to the app for when a goal is achieved to make the app more fun. 
+I spent most of today with my pairing partner updating the code so that our app runs by default in dark mode and the dark mode matches our high fidelity wireframe. It was a lot of grunt work but the end result looks good. It also helped me to get more familiar with the interworking of the code on the front end, Tailwindcss, and Figma. We also tried adding a celebration animation to the app for when a goal is achieved to make the app more fun. 
 
 Another pairing group from our team worked on the landing page. The third pairing group from our team continued working on the savings page. 
 
