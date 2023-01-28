@@ -1106,3 +1106,52 @@ At the end of today, the team decided that I should be the scrum leader for the 
 ![Overview Page](Images/OverviewPage(23Jan2023).jpg)
 
 ![Budgeting Page](Images/BudgetingPage(23Jan2023).jpg)
+
+### Day 95: 24th January 2023 
+
+**Today's Progress**:
+
+As the scrum leader today, I ran the daily stand-up and end-of-the day retrospective. That evening, one of my teammates sent me a message which boosted my confidence. They said, 
+
+*“Hey Stephanie, I think you did a fantastic job leading the team today! You kept the stand-ups on point and I think we were a lot more clear and productive thanks to it!”*
+
+ It was a surprise to receive their message and their encouraging words made my day. 
+
+We paired off into three teams today with tasks to complete. My partner and I worked on making the app responsive so that you can view it on mobile phones as well. 
+
+By Friday we have to prepare a short video introducing our project, create a new YouTube account for our team, and upload the video to this account. Therefore, I started preparing the PowerPoint presentation and embedding a demonstration video of our app into it. 
+
+
+### Day 96: 25th January 2023 
+
+**Today's Progress**:
+
+I had a fun day today participating in my first hackathon for a potential employer. It’s the first step to apply for a junior software developer role at this company. I was put in a group of four and we were given four hours to design and create a web app to promote sustainability to individuals and software development project teams. We also had to prepare and give a 5 minute presentation to a panel of interviewers from the company about our app. Throughout the day, we were each pulled out at different times to meet one to one with someone from the company for a casual interview. I enjoyed my conversation with the person who interviewed me and learned a lot more about the company. All in all, it was a great experience. 
+
+### Day 97: 26th January 2023 (Thurs)
+
+**Today's Progress**:
+
+Today was the last day to work on our app. It was a flurry of activity and stress but we got through it. The main things we worked on were:
+* Testing
+* PowerPoint Presentation including video
+* Tying the domain name to deployment
+* Last merge with main branch and fixing bugs.
+
+### Day 98: 27th January 2023 (Fri)
+
+**Today's Progress**:
+
+Today we recorded our presentation and submitted it. You can view it here:
+https://www.youtube.com/watch?v=uUx-UU_VvwM&t=10s
+
+If you’d like to try out our app for yourself, check it out here: https://frumo.co.uk/
+
+![frumo Take Your Cash to the Next Level](Images/frumo_TakeYourCashToTheNextLevel.jpg)
+
+
+
+#### The Frugal Fanatics celebrating the completion of our final project!
+![Frugal Fanatics last day photo](Images/FrugalFanaticsLastDay(27Jan2023).jpg)
+
+ I also started working on a technical challenge for a job interview that I have on Monday for a junior software developer role. 
