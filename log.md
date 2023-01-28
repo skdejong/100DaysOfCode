@@ -1126,7 +1126,9 @@ By Friday we have to prepare a short video introducing our project, create a new
 
 **Today's Progress**:
 
-I had a fun day today participating in my first hackathon for a potential employer. It’s the first step to apply for a junior software developer role at this company. I was put in a group of four and we were given four hours to design and create a web app to promote sustainability to individuals and software development project teams. We also had to prepare and give a 5 minute presentation to a panel of interviewers from the company about our app. Throughout the day, we were each pulled out at different times to meet one to one with someone from the company for a casual interview. I enjoyed my conversation with the person who interviewed me and learned a lot more about the company. All in all, it was a great experience. 
+I had a fun day today participating in my first hackathon for a potential employer. It’s the first step to apply for a junior software developer role at this company. I was put in a group of four and we were given four hours to design and create a web app to promote sustainability to individuals and software development project teams. We also had to prepare and give a 5 minute presentation to a panel of interviewers from the company about our app. 
+
+Throughout the day, we were each pulled out at different times to meet one to one with someone from the company for a casual interview. I enjoyed my conversation with the person who interviewed me and learned a lot more about the company. All in all, it was a great experience. I had never worked with the three people in my group but we worked well together and the interviewers said that our presentation was really good.
 
 ### Day 97: 26th January 2023 (Thurs)
 
@@ -1143,7 +1145,8 @@ Today was the last day to work on our app. It was a flurry of activity and stres
 **Today's Progress**:
 
 Today we recorded our presentation and submitted it. You can view it here:
-https://www.youtube.com/watch?v=uUx-UU_VvwM&t=10s
+
+[Frugal Fanatics presentation](https://www.youtube.com/watch?v=uUx-UU_VvwM&t=10s)
 
 If you’d like to try out our app for yourself, check it out here: https://frumo.co.uk/
 
