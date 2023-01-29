@@ -1130,7 +1130,7 @@ I had a fun day today participating in my first hackathon for a potential employ
 
 Throughout the day, we were each pulled out at different times to meet one to one with someone from the company for a casual interview. I enjoyed my conversation with the person who interviewed me and learned a lot more about the company. All in all, it was a great experience. I had never worked with the three people in my group but we worked well together and the interviewers said that our presentation was really good.
 
-### Day 97: 26th January 2023 (Thurs)
+### Day 97: 26th January 2023 
 
 **Today's Progress**:
 
@@ -1140,7 +1140,7 @@ Today was the last day to work on our app. It was a flurry of activity and stres
 * Tying the domain name to deployment
 * Last merge with main branch and fixing bugs.
 
-### Day 98: 27th January 2023 (Fri)
+### Day 98: 27th January 2023 
 
 **Today's Progress**:
 
@@ -1154,7 +1154,24 @@ If you’d like to try out our app for yourself, check it out here: https://frum
 
 
 
-#### The Frugal Fanatics celebrating the completion of our final project!
+#### Celebrating the completion of our final project!
 ![Frugal Fanatics last day photo](Images/FrugalFanaticsLastDay(27Jan2023).jpg)
 
  I also started working on a technical challenge for a job interview that I have on Monday for a junior software developer role. 
+
+ ### Day 99: 28th January 2023
+
+**Today's Progress**:
+
+Today I took on a 6 kyu Shopping List kata on CodeWars. First, I wrote a plan in plain English. I did something differently today though. Once I'd written the plan, I worked backwards. I looked at the best solutions and then wrote code to solve it. I did it in steps, first writing the code to solve the simplest part of the kata. For the next step, I wrote the code to include any discounts and buy one get one free deals on the products. Throughout I wrote comments explaining each line of code. I did all of it in a private repo in js files and tested them in [JS Console](https://jsconsole.com/).  
+
+**Link to resource**: 
+[Codewars Shopping List kata (6kyu)](https://www.codewars.com/kata/596266482f9add20f70001fc/javascript)
+
+### Day 100: 29th January 2023
+
+**Today's Progress**:
+
+Continuing on from yesterday, today I wrote code to test the solutions that I wrote yesterday. I initialised a Node.js project and installed Jest as a dependency. Then I created the test files, wrote the tests, and ran the tests (`npm test`). Loved seeing those green pass test results!
+
+<!-- **Link to work**: [Shopping List Challenge](url to be added) -->
