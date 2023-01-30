@@ -57,14 +57,12 @@ the School Of Code. We built a Rock, Paper, Scissors game from scratch.
 ### Day 6: 1 October 2022
 
 **Today's Progress**: 
-- Signed up to #codewars and practiced breaking down problems into solvable chunks and problem solving in pairs. Wrote functions in JavaScript to solve our first kata (challenge) together.
-- Learned about the Document Object Model (DOM) in JavaScript - how to create, append, and add elements to the DOM. Attempted to practice what we'd learned with my programming pair partner.
+Today I learned how to fork a repo in GitHub. Then I forked the repos of workshops that I did during the week with my pairing partner. We hadn't finished them during the week, so I forked them so I could work on them independently. 
 
 ### Day 7: 2 October 2022
 
 **Today's Progress**: 
-- Signed up to #codewars and practiced breaking down problems into solvable chunks and problem solving in pairs. Wrote functions in JavaScript to solve our first kata (challenge) together.
-- Learned about the Document Object Model (DOM) in JavaScript - how to create, append, and add elements to the DOM. Attempted to practice what we'd learned with my programming pair partner.
+Worked on our homework for the weekend which was a GitHub repo covering all the topics on JavaScript that we were taught in our first week at School of Code. 
 
 ### Day 8: 3 October 2022
 
