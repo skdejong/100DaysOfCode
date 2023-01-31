@@ -566,6 +566,17 @@ This week, we lived out the following values from The Agile Manifesto:
 
 I am incredibly grateful to my teammates on this project, Gabe and Milly. They were supportive, encouraging, kind, flexible, resilient, and brilliant at coding too! We faced huge challenges but overcame them together, working as a cohesive team with a positive attitude. At the end of the week we presented to the judges a functioning app which was coded almost entirely in a day. What an achievement!
 
+**Feedback from the judges on our week-long group project:**
+
+>You guys showed a solid understanding of the fundamental principals of software design and the software development life cycle in general. 
+
+>Really good job making a positive situation out of a tough week.
+
+>Unfortunate journey given the problems they had with a team member, but still delivered on the project which is impressive.
+
+>Naturally, your end product was less developed than others that we saw, but that is absolutely understandable when we take into consideration the troubles that you had in the week (and was completely unavoidable!) What you did present though was **genuinely impressive** for what is essentially a day's work. 
+
+
 ![Image](./Images/Our%20App%20on%20Fri%20morning.jpg)
 
 ### Day 56: 28 November 2022
