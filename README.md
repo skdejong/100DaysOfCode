@@ -566,7 +566,7 @@ This week, we lived out the following values from The Agile Manifesto:
 
 I am incredibly grateful to my teammates on this project, Gabe and Milly. They were supportive, encouraging, kind, flexible, resilient, and brilliant at coding too! We faced huge challenges but overcame them together, working as a cohesive team with a positive attitude. At the end of the week we presented to the judges a functioning app which was coded almost entirely in a day. What an achievement!
 
-**Feedback from the judges on our week-long group project:**
+#### Feedback from the judges on our week-long group project:
 
 >You guys showed a solid understanding of the fundamental principals of software design and the software development life cycle in general. 
 
@@ -699,7 +699,7 @@ How do you maintain motivation to keep going when you are worn out? After twelve
 **Today's Progress**:
 We started learning about TypeScript today. Here's a little code snipped from the first part of our workshop practicing writing in TypeScript:
 
-## Code Snippets
+**Code Snippets**
 
 ```tsx
 /* TASK 1.1: declare and initialize a boolean variable */
@@ -881,7 +881,7 @@ Today as a team we accomplished the following:
 * Brainstormed about a problem that we want to solve as a team. Considered how we could use technology to solve a problem affecting our end users. We used a Figma Jamboard that I created and the Disney Ideation Method. 
 * Discussed roles and responsibilities within the team. I volunteered to serve at the scrum coach for the week and I created a Trello board to help with our planning and prioritising. 
 
-#### Key Principles from our Team Manifesto:
+**Key Principles from our Team Manifesto:**
 
 ![Final Team Manifesto](Images/TeamManifestoTopFrugalFanatics(3Jan2023).jpg)
 
@@ -947,11 +947,11 @@ Today we also finished our low fidelity wireframes.
 
 We made final decisions on our Tech stack today, including using relational databases over non-relational. We also decided on our Git branching strategy (GitHub Flow) and practiced it using a practice repo. We will be protecting the main branch and deploying after every sprint. In addtion, we agreed on our colour scheme. 
 
-#### Tech Stack:
+**Tech Stack:**
 
 ![Tech Stack](Images/TechStackChosen.jpg)
 
-#### Colour Scheme:
+**Colour Scheme:**
 
 ![Color Scheme](Images/Color%20scheme%20for%20Frugal%20Fanatics%20project.png)
 
@@ -965,7 +965,7 @@ We finally started coding today!
 * We created front and back end repos. I installed the relevant dependencies for our front end repo (Nextjs, Tailwindcss, Postcss, Autoprefixer, Heroicons, Headlessui, and Prettier). I also installed the Tailwindcss Intellisense VSCode Extension for uniformity and help when creating inline CSS. 
 * We decided on the naming convention for the files and folder layout. Instead of using index.js we will name each file by the component for example DashboardLayout.js
 
-#### Team Rota:
+**Team Rota:**
 
 ![Team Rota](Images/Team%20Rota%20Frugal%20Fanatics.jpg)
 
@@ -981,7 +981,7 @@ On the Back End:
 * Updated Entity Relationship Diagram (ERD) for the database with new details
 
 
-#### Entity Relationship Diagram
+**Entity Relationship Diagram**
 ![Entity Relationship Diagram](Images/EntityRelationshipDiagram(ERD)%20for%20databse.jpg)
 
 ### Day 85: 11th January 2023
@@ -1050,10 +1050,12 @@ Two of our team worked together today updating the front end to make it accessib
 
 This evening I spent some time reading through documentation on Next.js and supabase so I have a better understanding of how they work. I feel more confident now going into tomorrow. 
 
-#### Tech Stack starting week 3
+**Tech Stack starting week 3**
+
 ![Alt text](Images/Tech%20Stack%20week%203.jpg)
 
-#### Accessibility - Lighthouse Audit
+**Accessibility - Lighthouse Audit**
+
 ![Accessibility:Lighthouse Audit Overview page](Images/LighthouseAudit_Overview_AFTER.jpg)
 ![Accessibility:Lighthouse Audit Budgeting page](Images/LighthouseAudit_Budgeting_AFTER.jpg)
 ![Accessibility:Lighthouse Audit Savings page](Images/LighthouseAudit_Savings_AFTER.jpg)
@@ -1070,7 +1072,8 @@ The second team worked on making the savings page of our app look more fun with 
 
 We also had the opportunity to hear from two companies that are hiring for roles that we can apply for when we finish the bootcamp. One of them is hosting a hackathon next week for potential applicants. Exciting!
 
-#### High Fidelity Wireframe dark mode
+**High Fidelity Wireframe dark mode**
+
 ![High Fidelity Wireframe dark mode](Images/High%20Fidelity%20Wireframe%20dark%20mode.jpg)
 
 ### Day 93: 20th January 2023 
@@ -1082,10 +1085,12 @@ My pairing partner and I started working on the dark mode version of our app. I 
 
 We also prepared and gave a presentation to the coaches and other teams in Group A summarizing what we accomplished this week. 
 
-#### Sprint goals week 3 and accomplishments:
+**Sprint goals week 3 and accomplishments:**
+
 ![Sprint goals week 3](Images/Sprint%20goals%20week%203%20(20Jan2023).jpg)
 
-#### Savings page with features added to make it more fun:
+**Savings page with features added to make it more fun:**
+
 ![AGamefied savings page](Images/Savings%20page%20end%20of%20week%203%20(20Jan2023).jpg)
 
 
@@ -1098,7 +1103,7 @@ Another pairing group from our team worked on the landing page. The third pairin
 
 At the end of today, the team decided that I should be the scrum leader for the rest of our time working together. I served as the scrum leader our first week and then we started changing to a new scrum leader every two days. Even though half the team initially weren't keen on being a scrum leader, we thought everyone should have the chance to lead because it would be a good experience. It was also interesting to see people's different leadership styles. 
 
-#### frumo app in dark mode :
+**frumo app in dark mode:**
 
 ![Landing Page](Images/LandingPage(23Jan2023).jpg)
 
@@ -1163,7 +1168,8 @@ If you’d like to try out our app for yourself, check it out here: https://frum
 
 
 
-#### Celebrating the completion of our final project!
+**Celebrating the completion of our final project!**
+
 ![Frugal Fanatics last day photo](Images/FrugalFanaticsLastDay(27Jan2023).jpg)
 
  I also started working on a technical challenge for a job interview that I have on Monday for a junior software developer role. 
