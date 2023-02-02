@@ -1172,8 +1172,6 @@ If you’d like to try out our app for yourself, check it out here: https://frum
 
 ![Frugal Fanatics last day photo](Images/FrugalFanaticsLastDay(27Jan2023).jpg)
 
- I also started working on a technical challenge for a job interview that I have on Monday for a junior software developer role. 
-
  ### Day 99: 28th January 2023
 
 **Today's Progress**:
@@ -1189,4 +1187,54 @@ Today I took on a 6 kyu Shopping List kata on CodeWars. First, I wrote a plan in
 
 Continuing on from yesterday, today I wrote code to test the solutions that I wrote yesterday. I initialised a Node.js project and installed Jest as a dependency. Then I created the test files, wrote the tests, and ran the tests (`npm test`). Loved seeing those green pass test results!
 
-<!-- **Link to work**: [Shopping List Challenge](url to be added) -->
+**Link to work**: [Shopping List Challenge](https://github.com/skdejong/Shopping_List_Challenge)
+
+### Day 101: 30th January 2023
+
+**Today's Progress**:
+Today we worked on preparing and rehearsing our presentation for the School of Code demo day. 
+
+### Day 102: 31th January 2023
+
+**Today's Progress**:
+I worked with one of my Frugal Fanatics teammates this morning to write some end to end tests to test our app using Cypress. It was really fun to explore testing with Cypress. We hadn't done it since week 6 of the 16 week bootcamp. 
+
+### Day 103: 1st February 2023
+
+**Today's Progress**:
+
+Today we shared our frumo app to the School Of Code's partner companies who are looking to hire talented junior developers. Our team had the chance to share our frumo app with 12 people from 9 different companies. Their responses blew me away! Here are a few quotes:
+
+>"Awesome idea"
+
+>"The best presentation I've seen all day. Very professional"
+
+>"Shout out to the gamification of savings"
+
+>"Amazing app"
+
+>"Awesome presentation"
+
+>"Really useful"
+
+>"Makes dealing with money more digestible for non-financial people"
+
+>"Looks fantastic"
+
+>"Wonderful"
+
+>"The dashboard is beautiful"
+
+>"Really good looking app"
+
+>"Looks really impressive. Very professional."
+
+My personal favourite quote for the day though was:
+
+>#### "Anyone can learn to code with enough time. How you work with people and your communication skills are much harder to learn."
+
+It gives me high hopes as I continue learning how to code even after my days at the wonderful School Of Code are done. I am incredibly grateful to the School Of Code for choosing me, from among the 4000 applicants, to have the opportunity to attend their fantastic bootcamp. I have been stretched beyond measure and learned more than I ever thought possible these last four months. I can't wait to keep learning and coding!
+
+![Alt text](Images/AlittleProgressEachDayAddsUpToBigResults.jpg)
+
+![Alt text](Images/EveryonesGrowthHasItsOwnRhythm.jpg)
