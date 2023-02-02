@@ -1187,8 +1187,6 @@ Today I took on a 6 kyu Shopping List kata on CodeWars. First, I wrote a plan in
 
 Continuing on from yesterday, today I wrote code to test the solutions that I wrote yesterday. I initialised a Node.js project and installed Jest as a dependency. Then I created the test files, wrote the tests, and ran the tests (`npm test`). Loved seeing those green pass test results!
 
-**Link to work**: [Shopping List Challenge](https://github.com/skdejong/Shopping_List_Challenge)
-
 ### Day 101: 30th January 2023
 
 **Today's Progress**:
