@@ -1082,7 +1082,7 @@ This evening I spent some time reading through documentation on Next.js and supa
 **Today's Progress**:
 Discussed our goals first thing this morning. Decided to make dark mode the default mode for our app as we all think it looks better (based on our high fidelity wireframes). 
 
-Then we split into two teams for the day. My team continued refactoring the code on our front end to add authentication wtih supabase. It was slow going but we made some good progress. 
+Then we split into two teams for the day. My team continued refactoring the code on our front end to add authentication with supabase. It was slow going but we made some good progress. 
 
 The second team worked on making the savings page of our app look more fun with icons and colors. 
 
