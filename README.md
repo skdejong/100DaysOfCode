@@ -135,16 +135,17 @@ Started working on Recap Week 2 workshop from School of Code which covers functi
 ### Day 17: 12 October 2022
 
 **Today's Progress**:
+
 User Interface (UI) design:
-· Learned about the elements and principles of UI design.
-· Created a low fidelity wireframe on www.figma.com.
-· Learned how to generate a Lighthouse report to analyse the accessibility of a web app.
-· Played the “Can’t Unsee” game with my programming pair partner where you pick the design that is most correct. https://cantunsee.space/
-· Explored colour palettes on https://coolors.co/ and https://paletton.com/
+* Learned about the elements and principles of UI design.
+* Created a low fidelity wireframe on www.figma.com.
+* Learned how to generate a Lighthouse report to analyse the accessibility of a web app.
+* Played the “Can’t Unsee” game with my programming pair partner where you pick the design that is most correct. https://cantunsee.space/
+* Explored colour palettes on https://coolors.co/ and https://paletton.com/
 
 CSS:
-· Learned about Specificity in CSS https://lnkd.in/e2aerhUz 
-· Also learned how to name CSS classes to make them more specific
+* Learned about Specificity in CSS https://lnkd.in/e2aerhUz 
+* Also learned how to name CSS classes to make them more specific
 #css #ui
 
 ![Image](./Images/Figma_whereTeamsDesignBetterProductsTogether.jpg)
