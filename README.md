@@ -697,7 +697,7 @@ How do you maintain motivation to keep going when you are worn out? After twelve
 ### Day 66: 13 December 2022
 
 **Today's Progress**:
-We started learning about TypeScript today. Here's a little code snipped from the first part of our workshop practicing writing in TypeScript:
+We started learning about TypeScript today. Here's a little code snippet from the first part of our workshop practicing writing in TypeScript:
 
 **Code Snippets**
 
