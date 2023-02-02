@@ -153,24 +153,25 @@ CSS:
 ### Day 18: 13 October 2022
 
 **Today's Progress**:
-· For a UX design group project, we analysed a company’s website and presented our recommendations on how to improve the accessibility of the website.
-· CSS (Cascading Style Sheets) is the code that styles web content. Learned about flex, gap, viewpoint height, and viewpoint width in CSS. #css #project #uxdesign #accessibility
+* For a UX design group project, we analysed a company’s website and presented our recommendations on how to improve the accessibility of the website.
+* CSS (Cascading Style Sheets) is the code that styles web content. Learned about flex, gap, viewpoint height, and viewpoint width in CSS. #css #project #uxdesign #accessibility
 
 ### Day 19: 14 October 2022
 
 **Today's Progress**:
 Yesterday was Hackathon Friday at School Of Code. We used our newly developed UI/UX skills to design a business landing page. Working together in a pair we:
-· Created user stories and user personas to identify users' needs and the problem we needed to solve.
-· Made a user journey flow diagram on www.lucidchart.com
-· Created low and high-fidelity wireframes using www.figma.com and miro.com
-· Chose our colour scheme (via coolors.co) and tested our colours for accessibility. For example, we checked to see if the colours we chose had enough contrast so that people who are colour-blind can still distinguish them.
+* Created user stories and user personas to identify users' needs and the problem we needed to solve.
+* Made a user journey flow diagram on www.lucidchart.com
+* Created low and high-fidelity wireframes using www.figma.com and miro.com
+* Chose our colour scheme (via coolors.co) and tested our colours for accessibility. For example, we checked to see if the colours we chose had enough contrast so that people who are colour-blind can still distinguish them.
 #uiuxdesign #collaboration
 
 ### Day 20: 15 October 2022
 
 **Today's Progress**:
-- Continued coding functions, loops, and arrays for the JavaScript Recap workshop with School Of Code.
-- One of the many things I love about School of Code is they connect each of us with a mentor who works in the tech industry already and is willing to meet with us 1:1 each week. Arthur is my mentor and he has encouraged me so much already with his tips, advice, and support. He sent me an inspiring quote this morning when I was feeling discouraged and I've been repeating it to myself all day. Thank you, Arthur! 
+
+* Continued coding functions, loops, and arrays for the JavaScript Recap workshop with School Of Code.
+* One of the many things I love about School of Code is they connect each of us with a mentor who works in the tech industry already and is willing to meet with us 1:1 each week. Arthur is my mentor and he has encouraged me so much already with his tips, advice, and support. He sent me an inspiring quote this morning when I was feeling discouraged and I've been repeating it to myself all day. Thank you, Arthur! 
 
     ![Image](./Images/CompetitionMeVsMe.jpg)
 
@@ -179,25 +180,27 @@ Yesterday was Hackathon Friday at School Of Code. We used our newly developed UI
 ### Day 21: 17 October 2022
 
 **Today's Progress**:
-· Learned some tips on how to debug code
-· Started learning about Back End Development. As part of that, with my new pairing partner, we:
-    o  installed Node.js
-    o  Created, imported and exported modules using CommonJS
-    o  Imported JSON data using CommonJS
-· My favourite quote from our coach, Loz, today (paraphrased):  “You can’t really understand something in coding just by watching someone do it. You only become familiar with it that way. You have to do it to understand it.”
+
+* Learned some tips on how to debug code
+* Started learning about Back End Development. As part of that, with my new pairing partner, we:
+    * installed Node.js
+    * Created, imported and exported modules using CommonJS
+    * Imported JSON data using CommonJS
+* My favourite quote from our coach, Loz, today (paraphrased):  “You can’t really understand something in coding just by watching someone do it. You only become familiar with it that way. You have to do it to understand it.”
 #backenddevelopment #nodejs #json #debugging
 
 ### Day 22: 18 October 2022
 
 **Today's Progress**:
+
 This week we are learning about backend development. We are using Nodejs (an open-source javascript runtime) to run JavaScript outside the browser.
-- Today we learned how to use modules (built-in libraries) to interact with systems.
-- We dealt with Node core modules and 3rd party modules like NPM.
-- With my pair partner, I practiced:
-- Reading and writing to files using the fs module.
-- Used uuid (a third party package) to generate unique ids.
-- Serialized and deserialized data using the JSON.parse and JSON.stringify methods.
-- Started learning how to build a web server using expressjs.com.
+* Today we learned how to use modules (built-in libraries) to interact with systems.
+* We dealt with Node core modules and 3rd party modules like NPM.
+* With my pair partner, I practiced:
+* Reading and writing to files using the fs module.
+* Used uuid (a third party package) to generate unique ids.
+* Serialized and deserialized data using the JSON.parse and JSON.stringify methods.
+* Started learning how to build a web server using expressjs.com.
 
 #nodejs #backenddevelopment #json #expressjs
 
@@ -206,18 +209,20 @@ This week we are learning about backend development. We are using Nodejs (an ope
 ### Day 23: 19 October 2022
 
 **Today's Progress**:
-· Built a REST API using Node.js and Express
-· Created API endpoints allowing the user to create, read, update and delete a resource
-· Used Postman to make HTTP requests to test API endpoints. Postman is an API platform for building and using APIs.
-· Installed nodemon on NPM. nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+
+* Built a REST API using Node.js and Express
+* Created API endpoints allowing the user to create, read, update and delete a resource
+* Used Postman to make HTTP requests to test API endpoints. Postman is an API platform for building and using APIs.
+* Installed nodemon on NPM. nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 #api #restapi #nodejs #expressjs #postmanapi
 
 ### Day 24: 20 October 2022
 
 **Today's Progress**:
-- Learned how to create custom Middleware
-- Installed a third party Middleware package called morgan which logs the details of requests.
-- Used a built in middleware to serve static files
+
+* Learned how to create custom Middleware
+* Installed a third party Middleware package called morgan which logs the details of requests.
+* Used a built in middleware to serve static files
 
 ### Day 25: 21 October 2022
 
@@ -229,8 +234,8 @@ Built a REST API from scratch. Set up CRUD routes and got them running in our ro
 
 **Today's Progress**:
 Forked the repo from the workshop that I did with my programming pair partner last week on Building a REST API using Node.js and Express. Did it again from scratch by myself this time to reinforce what I had learned.
-- Created API endpoints allowing the user to create, read, update and delete a resource (Set up CRUD routes in my router so that my server is listening for requests and serves test responses).
-- Used Postman to make HTTP requests to test API endpoints.
+* Created API endpoints allowing the user to create, read, update and delete a resource (Set up CRUD routes in my router so that my server is listening for requests and serves test responses).
+* Used Postman to make HTTP requests to test API endpoints.
 #middleware #restapi #nodejs #postmanapi #apitesting
 
 ![Image](./Images/Full%20Stack%20Developer%20Duck.jpg)
@@ -239,33 +244,34 @@ Forked the repo from the workshop that I did with my programming pair partner la
 
 **Today's Progress**:
 This week, we are learning about the programming language, SQL.
-▪ Structured Query Language (SQL) was designed for managing data that is held in a relational database management system.
-▪ We practiced performing CRUD (Create, Read, Update, Delete) operations in SQL via the website db-fiddle.com. 
+* Structured Query Language (SQL) was designed for managing data that is held in a relational database management system.
+* We practiced performing CRUD (Create, Read, Update, Delete) operations in SQL via the website db-fiddle.com. 
 #sql #database
 
 ### Day 28: 25 October 2022
 
 **Today's Progress**:
-▪ Learned about joining SQL tables, SQL keywords, functions, and how to query a database. I am loving SQL so far.
-▪ My favourite part of today was solving the SQL Murder Mystery with my new programming partners this week (we're pair programming in a team of 3).
+
+* Learned about joining SQL tables, SQL keywords, functions, and how to query a database. I am loving SQL so far.
+* My favourite part of today was solving the SQL Murder Mystery with my new programming partners this week (we're pair programming in a team of 3).
 #sql #postgresql
 
 ### Day 29: 26 October 2022
 
 **Today's Progress**:
 Today, we learned how to connect a library to a database.
-▪ Created a Postgres database on ElephantSQL.
-▪ Created Environment variables.
-▪ Learned how to use the dotenv package to load environment variables.
-▪ Connected to the PostgreSQL database using a pool from the pg package and export a query method. This allowed us to execute SQL queries in our models and other files.
-▪ Wrote parameterized queries and tested the APIs with Postman. 
+* Created a Postgres database on ElephantSQL.
+* Created Environment variables.
+* Learned how to use the dotenv package to load environment variables.
+* Connected to the PostgreSQL database using a pool from the pg package and export a query method. This allowed us to execute SQL queries in our models and other files.
+* Wrote parameterized queries and tested the APIs with Postman. 
 #sql #backendwebdevelopment #postgresql #api
 
 ### Day 30: 27 October 2022
 
 **Today's Progress**:
-- Solved my first SQL kata on #codewars, with my two programming pair partners for this week, and ranked up to the next level kyu!
-- Worked together with four other teammates to research and present to a larger group (of 40+ people) about error handling in Expressjs. As part of this, I learned about the JavaScript statements try{}, catch {}, finally {}, and throw {}.
+* Solved my first SQL kata on #codewars, with my two programming pair partners for this week, and ranked up to the next level kyu!
+* Worked together with four other teammates to research and present to a larger group (of 40+ people) about error handling in Expressjs. As part of this, I learned about the JavaScript statements try{}, catch {}, finally {}, and throw {}.
 #javascript #sql #expressjs #postgresql
 
 ### Day 31: 28 October 2022
@@ -273,18 +279,19 @@ Today, we learned how to connect a library to a database.
 **Today's Progress**:
 Hackathon Friday at School Of Code!
 Working together in a team of three, we:
-- Created a PostgreSQL database, with multiple tables, via ElephantSQL and hosted on the Amazon Web Service (AWS) cloud. 
-- Coded environment variables to store database credentials. 
-- Created a fully functioning REST API with routes to manage CRUD (Create, Read, Update, Delete) requests to the database and serve responses. 
-- Created the models pattern to allow easy interaction with the database. 
+* Created a PostgreSQL database, with multiple tables, via ElephantSQL and hosted on the Amazon Web Service (AWS) cloud. 
+* Coded environment variables to store database credentials. 
+* Created a fully functioning REST API with routes to manage CRUD (Create, Read, Update, Delete) requests to the database and serve responses. 
+* Created the models pattern to allow easy interaction with the database. 
 #aws #postgresql #restapi #backendwebdevelopment
 
 ### Day 32: 30 October 2022
 
 **Today's Progress**:
-- Forked the repos of the workshops I worked on last week with my pairing partners so I can continue to work on them on my own.
-- Read article on "Getting Started with Node.js ESM" (https://lnkd.in/ePzW94Cp)
-- Watched video on "JavaScript Modules: From IIFEs to CommonJS to ES6 Modules" in preparation for our School of Code homework which is to convert our previous workshops to ECMAScript modules (ESM)
+
+* Forked the repos of the workshops I worked on last week with my pairing partners so I can continue to work on them on my own.
+* Read article on "Getting Started with Node.js ESM" (https://lnkd.in/ePzW94Cp)
+* Watched video on "JavaScript Modules: From IIFEs to CommonJS to ES6 Modules" in preparation for our School of Code homework which is to convert our previous workshops to ECMAScript modules (ESM)
 (https://lnkd.in/ea3vV7RC)
 #github #nodejs #esm #esma #modules #javascript
 
@@ -292,72 +299,81 @@ Working together in a team of three, we:
 
 **Today's Progress**:
 This week we are learning about testing and modern software engineering practices. We've learned about Jestjs.io, Test-driven development (TDD), and Cypress.io.
-- Started converting the code that I wrote in the Build a REST API workshop from CommonJS (CJS) to ECMAScript modules (ESM).
-- Used jestjs.io to do basic testing in JavaScript. Jest is a JavaScript Testing Framework. (https://jestjs.io/)
+* Started converting the code that I wrote in the Build a REST API workshop from CommonJS (CJS) to ECMAScript modules (ESM).
+* Used jestjs.io to do basic testing in JavaScript. Jest is a JavaScript Testing Framework. (https://jestjs.io/)
 
 ### Day 34: 1 November 2022
 
 **Today's Progress**:
-- Read about Test-driven development (TDD) and discussed the pros/cons of TDD.
-- Worked on a repo, with my new programming pair partner, to practice Test-driven development (TDD)
-- Learned about Cypress.io, a JavaScript-based front-end testing tool built for the modern web. It uses a DOM manipulation technique and operates directly in the browser.
+
+* Read about Test-driven development (TDD) and discussed the pros/cons of TDD.
+* Worked on a repo, with my new programming pair partner, to practice Test-driven development (TDD)
+* Learned about Cypress.io, a JavaScript-based front-end testing tool built for the modern web. It uses a DOM manipulation technique and operates directly in the browser.
 #javascript #tdd #restapi #jest #cypress #ecmascript
 
 ### Day 35: 2 November 2022
 
 **Today's Progress**:
-- Wrote end-to-end tests using Cypress.io
-- Learned how to automate API endpoint testing using the npmjs package superagent (https://lnkd.in/eGCANeVP).
-- Decided to go back to basics this evening so I completed the first 20 lessons of the "JavaScript Algorithms and Data Structures" certification on freeCodeCamp
-- Tackled more #codewars challenges, with my pairing partner, and ranked up another kyu in JavaScript 😁
+
+* Wrote end-to-end tests using Cypress.io
+* Learned how to automate API endpoint testing using the npmjs package superagent (https://lnkd.in/eGCANeVP).
+* Decided to go back to basics this evening so I completed the first 20 lessons of the "JavaScript Algorithms and Data Structures" certification on freeCodeCamp
+* Tackled more #codewars challenges, with my pairing partner, and ranked up another kyu in JavaScript 😁
 #apitesting #cypress #freecodecamp
 
 ### Day 36: 3 November 2022
 
 **Today's Progress**:
-- Forked the #100daysofcode template and added all my notes from Notion, Tweets, and posts on LinkedIn from my first 35 days of the challenge into this 100 Days of Code log. It's a clear sign of how far I have come in a such a short time since when I started the 100 Days of Code challenge I didn't know how to use Github or VSCode and definitely didn't know how to fork a repo!
-- Learned about NoSQL from guest speakers from Couchbase
-- With my pair programming partner this week we created our own Kata for Code Wars and the tests required to check our CodeWarrior's solutions. We started with some simple ones which worked fine. Then we started creating a more complicated one but haven't finished it yet.
-- We also learned about NoSQL from Couchbase at School of Code today. It was interesting to learn more about it.
+
+* Forked the #100daysofcode template and added all my notes from Notion, Tweets, and posts on LinkedIn from my first 35 days of the challenge into this 100 Days of Code log. It's a clear sign of how far I have come in a such a short time since when I started the 100 Days of Code challenge I didn't know how to use Github or VSCode and definitely didn't know how to fork a repo!
+* Learned about NoSQL from guest speakers from Couchbase
+* With my pair programming partner this week we created our own Kata for Code Wars and the tests required to check our CodeWarrior's solutions. We started with some simple ones which worked fine. Then we started creating a more complicated one but haven't finished it yet.
+* We also learned about NoSQL from Couchbase at School of Code today. It was interesting to learn more about it.
 
 **Link(s) to work**: [Free Code Camp](https://www.freecodecamp.org/fcc1c4bc12a-0732-4d31-8cf5-256370ff73f5) 
 
 ### Day 37: 4 November 2022
 
 **Today's Progress**:
-- It was Hackathon Friday at School of Code. Our goal was to create testable code for end-to-end testing and API integration testing. We did our End-to-End testing using cypress.io. This included creating a SQL database in ElephantSQL. We did our API testing using jest and supertest. As part of that we wrote the code to test GET and POST. 
+
+* It was Hackathon Friday at School of Code. Our goal was to create testable code for end-to-end testing and API integration testing. We did our End-to-End testing using cypress.io. This included creating a SQL database in ElephantSQL. We did our API testing using jest and supertest. As part of that we wrote the code to test GET and POST. 
 
 ### Day 38: 6 November 2022
 
 **Today's Progress**:
-- Worked on the week 6 recap homework which was to test a full stack app. 
+
+* Worked on the week 6 recap homework which was to test a full stack app. 
 
 ### Day 39: 7 November 2022
 
 **Today's Progress**:
-- This week at School of Code we are covering component-based thinking and frameworks. We are specifically focused on learning how to use React, a JavaScript library used for building advanced user interfaces with a component-based architecture approach. 
-- Today we learned about how to create single-page React applications using Create React App. 
+
+* This week at School of Code we are covering component-based thinking and frameworks. We are specifically focused on learning how to use React, a JavaScript library used for building advanced user interfaces with a component-based architecture approach. 
+* Today we learned about how to create single-page React applications using Create React App. 
 
 ![Image](./Images/React%20JS.png)
 
 ### Day 40: 8 November 2022
 
 **Today's Progress**:
--  Solved a kata with my pairing partner this week by using JavaScript String split() and the Spread (...) operator. I worked on this particular kata with two different fellow programmers so it felt wonderful to finally solve it! 
--  At School of Code today we also learned and practiced coding using:
-    - JavaScript array methods such as map(), filter(), some(), every(), and sort().  
-    - React components: creating, building and nesting components.
+
+*  Solved a kata with my pairing partner this week by using JavaScript String split() and the Spread (...) operator. I worked on this particular kata with two different fellow programmers so it felt wonderful to finally solve it! 
+* At School of Code today we also learned and practiced coding using:
+    * JavaScript array methods such as map(), filter(), some(), every(), and sort().  
+    * React components: creating, building and nesting components.
 
 ### Day 41: 9 November 2022
 
 **Today's Progress**:
--  Learned about React useState hooks: const [state, setState] = useState(initialState)
+
+*  Learned about React useState hooks: const [state, setState] = useState(initialState)
 
 ### Day 42: 10 November 2022
 
 **Today's Progress**:
-- Learned about React lists and keys
-- Immutable updates to objects and arrays
+
+* Learned about React lists and keys
+* Immutable updates to objects and arrays
 
 **Thoughts:** Every day on my lunch break I try to walk outside. It's great for my health and also [scientifically proven](https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/) to boost creative thinking by an average of 60 percent! A perfect aid for effective problem solving. 
 
