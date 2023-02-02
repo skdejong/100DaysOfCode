@@ -1235,6 +1235,4 @@ My personal favourite quote for the day though was:
 
 It gives me high hopes as I continue learning how to code even after my days at the wonderful School Of Code are done. I am incredibly grateful to the School Of Code for choosing me, from among the 4000 applicants, to have the opportunity to attend their fantastic bootcamp. I have been stretched beyond measure and learned more than I ever thought possible these last four months. I can't wait to keep learning and coding!
 
-![Alt text](Images/AlittleProgressEachDayAddsUpToBigResults.jpg)
-
-![Alt text](Images/EveryonesGrowthHasItsOwnRhythm.jpg)
+![A Little Progress Each Day Adds Up To Big Results](Images/AlittleProgressEachDayAddsUpToBigResults.jpg)
